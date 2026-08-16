@@ -7,8 +7,7 @@ on:
   workflow_dispatch:        # lets us run it on demand to test
 
 permissions:
-  contents: write           # to commit content.json
-  models: read              # free GitHub Models inference
+  contents: write
 
 concurrency:
   group: weekly-briefing
@@ -25,8 +24,6 @@ jobs:
           python-version: "3.12"
 
       - name: Generate this week's briefing
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python build_briefing.py
 
       - name: Commit if the content changed
