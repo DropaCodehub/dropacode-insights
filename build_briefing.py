@@ -67,9 +67,18 @@ FEEDS = [
 ]
 
 NOISE = [
+    # consumer / entertainment
     "deal", "discount", "best laptop", "review:", "iphone", "android phone", "gaming",
     "streaming", "netflix", "tv show", "trailer", "smartwatch", "headphones", "black friday",
+    # events and housekeeping - never worth a homepage slot
+    "join the", "forum", "webinar", "conference", "summit", "workshop", "save the date",
+    "call for applications", "call for expression", "award", "prize", "vacancy",
+    "job opening", "newsletter", "podcast", "registration is open", "anniversary",
 ]
+
+# A story must clear this to be publishable at all. Better an unchanged week
+# than three weak cards on the homepage.
+MIN_SCORE = 9.0
 
 
 def get(url, timeout=30):
@@ -130,14 +139,22 @@ def score(item):
     hay = (" " + item["title"] + " " + item["summary"][:400] + " ").lower()
     if any(n in hay for n in NOISE):
         return 0.0, None
-    total, best, best_w = 0.0, None, 0.0
+    total, matched = 0.0, []
     for weight, tag, terms in CATEGORIES:
         hits = sum(1 for t in terms if t in hay)
         if hits:
             total += weight + (hits - 1) * 0.4
-            if weight > best_w:
-                best_w, best = weight, tag
-    if total == 0:
+            matched.append((hits, weight, tag))
+    if not matched:
+        return 0.0, None
+    # Label by what the story is mostly about (most term hits), not by whichever
+    # category happens to carry the biggest weight. This is what mis-tagged a
+    # ransomware story as "Cloud & Sovereignty" on one keyword.
+    matched.sort(key=lambda m: (m[0], m[1]), reverse=True)
+    best = matched[0][2]
+    # Pure security stories are not what this audience comes to the page for;
+    # they only earn a slot when they also touch regulation, finance or cloud.
+    if best == "Security" and len(matched) == 1:
         return 0.0, None
     total += item["bonus"]
     if item["date"]:
@@ -181,24 +198,20 @@ def collect():
 
 
 def select(items, n=3):
+    """Rank on merit, then allow at most two stories from any one source."""
     scored = []
     for it in items:
         s, tag = score(it)
-        if s > 0 and tag:
+        if s >= MIN_SCORE and tag:
             scored.append((s, tag, it))
     scored.sort(key=lambda x: x[0], reverse=True)
+    print("Stories clearing the quality bar (%.1f): %d" % (MIN_SCORE, len(scored)))
 
-    chosen, used_sources = [], set()
-    for s, tag, it in scored:                    # first pass: one per source, for spread
-        if it["source"] in used_sources:
+    chosen, per_source = [], {}
+    for s, tag, it in scored:
+        if per_source.get(it["source"], 0) >= 2:
             continue
-        used_sources.add(it["source"])
-        chosen.append((s, tag, it))
-        if len(chosen) == n:
-            return chosen
-    for s, tag, it in scored:                    # second pass: fill remaining slots
-        if any(it["url"] == c[2]["url"] for c in chosen):
-            continue
+        per_source[it["source"]] = per_source.get(it["source"], 0) + 1
         chosen.append((s, tag, it))
         if len(chosen) == n:
             break
@@ -211,7 +224,9 @@ def main():
     picks = select(collect())
 
     if len(picks) < 3:
-        sys.exit("Only %d relevant stories found - refusing to publish a thin briefing." % len(picks))
+        # Leaving last week's briefing up is better than publishing filler.
+        print("Only %d stories cleared the bar - leaving the existing briefing in place." % len(picks))
+        return
 
     data = {
         "updated": today,
