@@ -1,0 +1,35 @@
+{
+  "updated": "2026-08-17",
+  "eyebrow": "Weekly briefing",
+  "heading": "Technology & Trends",
+  "lead": {
+    "title": "The AI Act deadline moved. The work didn't.",
+    "body": [
+      "On 2 August the AI Act's transparency duties under Article 50 took effect on schedule, while the Digital Omnibus pushed stand-alone high-risk obligations out to December 2027 and AI embedded in regulated products to August 2028. The headline reads as relief. The detail reads as a deadline for the groundwork.",
+      "Research published this year found that more than half of organisations still hold no systematic inventory of the AI systems they operate, and that in a review of 106 enterprise systems, 40% could not be cleanly placed in a risk tier at all. Classification is the slow part, not remediation. For organisations running AI inside regulated delivery or public-sector programmes, the time bought is enough to build the inventory, classification and evidence trail once — and not enough to build it twice."
+    ]
+  },
+  "items": [
+    {
+      "tag": "EU Regulation",
+      "headline": "AI Act transparency duties land; high-risk deadlines slip to 2027",
+      "summary": "The Digital Omnibus defers stand-alone Annex III high-risk obligations to 2 December 2027 and embedded high-risk systems to 2 August 2028. Article 50 disclosure duties began on 2 August 2026, with a grace period for watermarking existing systems until December.",
+      "source": "Gibson Dunn",
+      "url": "https://www.gibsondunn.com/eu-ai-act-omnibus-agreement-postponed-high-risk-deadlines-and-other-key-changes/"
+    },
+    {
+      "tag": "Cloud & Sovereignty",
+      "headline": "Sovereignty becomes a scored criterion in EU cloud procurement",
+      "summary": "The Commission's Cloud Sovereignty Framework grades providers against 48 criteria in eight categories and assigns a Sovereignty Effectiveness Assurance Level. Public bodies are expected to apply it when buying cloud — turning jurisdictional exposure into a line item on the scorecard.",
+      "source": "European Commission",
+      "url": "https://commission.europa.eu/news-and-media/news/sovereign-cloud-framework-explained-2026-06-01_en"
+    },
+    {
+      "tag": "AI & Automation",
+      "headline": "Gartner: 40% of enterprise apps will ship task-specific AI agents this year",
+      "summary": "Up from under 5% in 2025 — but Gartner also expects more than 40% of agentic AI projects to be cancelled by end-2027, citing unclear business value and weak governance rather than model capability. The differentiator is scoping, not tooling.",
+      "source": "Gartner",
+      "url": "https://www.gartner.com/en/newsroom/press-releases/2025-08-26-gartner-predicts-40-percent-of-enterprise-apps-will-feature-task-specific-ai-agents-by-2026-up-from-less-than-5-percent-in-2025"
+    }
+  ]
+}
