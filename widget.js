@@ -9,7 +9,7 @@
 
   var CONFIG = {
     // Brand accent used for the eyebrow, links and card hairlines.
-    accent: "#1F5FFF",
+    accent: "#4F46E5",
     // Where the weekly content lives, relative to this script's own URL.
     feed: "content.json",
     // "auto" reads the host page background and picks light/dark to match.
