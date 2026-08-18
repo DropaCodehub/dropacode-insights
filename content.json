@@ -1,28 +1,28 @@
 {
-  "updated": "2026-08-17",
-  "eyebrow": "Weekly briefing",
+  "updated": "2026-08-18",
+  "eyebrow": "Latest briefing",
   "heading": "Technology & Trends",
   "items": [
     {
-      "tag": "Finance & Risk",
-      "headline": "EBA, EIOPA and ESMA call for enhanced governance and consistent supervision to mitigate ICT risks from frontier AI models in the EU financial sector",
-      "summary": "EBA, EIOPA and ESMA call for enhanced governance and consistent supervision to mitigate ICT risks from frontier AI models in the EU financial sector 31 July 2026 Digital Finance and Innovation Joint Committee The European Supervisory Authorities (EBA, EIOPA and ESMA – the ESAs) today published a statement calling for a cross-sectoral, risk-based and consistent supervisory approach to…",
-      "source": "ESMA",
-      "url": "https://www.esma.europa.eu/press-news/esma-news/eba-eiopa-and-esma-call-enhanced-governance-and-consistent-supervision"
-    },
-    {
-      "tag": "Security",
-      "headline": "Gunra Ransomware Exploits Fortinet FortiOS, FortiProxy Flaws to Breach Networks",
-      "summary": "Cybersecurity and intelligence agencies from South Korea and the U.S. warned of Gunra ransomware attacks targeting critical infrastructure sectors and organizations across the world. Targets of these attacks include healthcare and public health, financial services, government services and facilities, and professional and nonprofit services. \"Gunra is another variant in the ongoing trend of.",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/gunra-ransomware-exploits-fortinet-and.html"
-    },
-    {
       "tag": "EU Regulation",
-      "headline": "EBA, EIOPA and ESMA propose amendments to bilateral margin requirements",
-      "summary": "EBA, EIOPA and ESMA propose amendments to bilateral margin requirements 03 August 2026 Joint Committee Trading The European Supervisory Authorities (EBA, EIOPA and ESMA – the ESAs) today published a final report on draft Regulatory Technical Standards (RTS), proposing to simplify the bilateral margin requirements of the European Commission’s Delegated Regulation (EU) 2016/2251.",
+      "headline": "Daily News 17 / 08 / 2026",
+      "summary": "European Commission Daily news Brussels, 17 Aug 2026 Commission adopts guidance on fiscal flexibility for energy security measures The European Commission has adopted a notice providing Member States with further",
+      "source": "European Commission",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1737"
+    },
+    {
+      "tag": "AI & Automation",
+      "headline": "CISA Flags Actively Exploited Ray Flaw That Can Trigger Browser-Based RCE",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a critical flaw impacting Ray to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. Ray is an open-source, Python-native distributed computing framework designed to scale artificial intelligence and machine learning workloads. As of writing, the GitHub project has more than.",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/cisa-flags-actively-exploited-ray-flaw.html"
+    },
+    {
+      "tag": "Finance & Risk",
+      "headline": "Joint Board of Appeal dismisses appeal against the EBA",
+      "summary": "Joint Board of Appeal dismisses appeal against the EBA 16 July 2026 Board of Appeal The Joint Board of Appeal of the European Supervisory Authorities (EBA, EIOPA and ESMA – the ESAs) has issued a decision stating that an appeal brought by an individual against the European Banking Authority (EBA) is inadmissible.",
       "source": "ESMA",
-      "url": "https://www.esma.europa.eu/press-news/esma-news/eba-eiopa-and-esma-propose-amendments-bilateral-margin-requirements"
+      "url": "https://www.esma.europa.eu/press-news/esma-news/joint-board-appeal-dismisses-appeal-against-eba"
     }
   ]
 }
