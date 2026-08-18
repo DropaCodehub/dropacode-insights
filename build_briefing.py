@@ -230,7 +230,7 @@ def main():
 
     data = {
         "updated": today,
-        "eyebrow": "Weekly briefing",
+        "eyebrow": "Latest briefing",
         "heading": "Technology & Trends",
         "items": [{
             "tag": tag,
@@ -240,6 +240,20 @@ def main():
             "url": it["url"],
         } for _, tag, it in picks],
     }
+
+    # Only claim a new date when the stories genuinely changed. Running more often
+    # than the news moves would otherwise stamp "updated today" over last week's
+    # cards, which is worse than showing an honest older date.
+    try:
+        with open(OUT, "r", encoding="utf8") as f:
+            existing = json.load(f)
+    except Exception:
+        existing = None
+
+    if existing and [i.get("url") for i in existing.get("items", [])] == [i["url"] for i in data["items"]]:
+        print("Same three stories as the current briefing - leaving it untouched (still dated %s)."
+              % existing.get("updated"))
+        return
 
     with open(OUT, "w", encoding="utf8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
