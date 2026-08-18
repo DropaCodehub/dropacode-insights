@@ -61,9 +61,19 @@ FEEDS = [
     ("https://ec.europa.eu/commission/presscorner/api/rss?language=en", "European Commission", 4.0),
     ("https://www.eba.europa.eu/rss.xml", "European Banking Authority", 3.5),
     ("https://www.esma.europa.eu/rss.xml", "ESMA", 3.5),
+    ("https://www.eiopa.europa.eu/rss.xml", "EIOPA", 3.5),
+    ("https://www.enisa.europa.eu/media/news-items/RSS", "ENISA", 3.0),
+    # EU policy trade press - high volume, well matched to this audience.
+    ("https://www.euractiv.com/sections/digital/feed/", "Euractiv", 2.0),
+    ("https://www.euractiv.com/sections/economy-jobs/feed/", "Euractiv", 1.5),
+    # Enterprise technology press - the delivery, cloud and automation side.
+    ("https://www.computerweekly.com/rss/All-Computer-Weekly-content.xml", "Computer Weekly", 1.5),
+    ("https://www.theregister.com/headlines.atom", "The Register", 1.0),
+    ("https://feeds.arstechnica.com/arstechnica/index", "Ars Technica", 0.5),
     ("https://techcrunch.com/feed/", "TechCrunch", 0.0),
     ("https://www.theverge.com/rss/index.xml", "The Verge", 0.0),
     ("https://feeds.feedburner.com/TheHackersNews", "The Hacker News", 0.5),
+    ("https://www.bleepingcomputer.com/feed/", "BleepingComputer", 0.5),
 ]
 
 NOISE = [
@@ -197,10 +207,17 @@ def collect():
     return items
 
 
-def select(items, n=3):
-    """Rank on merit, then allow at most two stories from any one source."""
+def select(items, n=3, exclude=()):
+    """Rank on merit, skip anything already on the page, then cap each source at two.
+
+    Excluding what is currently published is what keeps the section moving. The
+    official regulators publish slowly, so without this the same three strong
+    stories win every run and the page looks frozen even though it is updating.
+    """
     scored = []
     for it in items:
+        if it["url"] in exclude:
+            continue
         s, tag = score(it)
         if s >= MIN_SCORE and tag:
             scored.append((s, tag, it))
@@ -220,11 +237,26 @@ def select(items, n=3):
 
 def main():
     today = datetime.date.today().isoformat()
+
+    try:
+        with open(OUT, "r", encoding="utf8") as f:
+            existing = json.load(f)
+    except Exception:
+        existing = None
+    on_page = {i.get("url") for i in (existing or {}).get("items", [])}
+
     print("Collecting headlines...")
-    picks = select(collect())
+    candidates = collect()
+    picks = select(candidates, exclude=on_page)
 
     if len(picks) < 3:
-        # Leaving last week's briefing up is better than publishing filler.
+        # Nothing new cleared the bar. Rather than publish filler, try again
+        # allowing the current stories back in - if that still yields the same
+        # three, the no-op check below leaves the page untouched.
+        print("Only %d genuinely new stories - falling back to the full pool." % len(picks))
+        picks = select(candidates)
+
+    if len(picks) < 3:
         print("Only %d stories cleared the bar - leaving the existing briefing in place." % len(picks))
         return
 
@@ -244,12 +276,6 @@ def main():
     # Only claim a new date when the stories genuinely changed. Running more often
     # than the news moves would otherwise stamp "updated today" over last week's
     # cards, which is worse than showing an honest older date.
-    try:
-        with open(OUT, "r", encoding="utf8") as f:
-            existing = json.load(f)
-    except Exception:
-        existing = None
-
     if existing and [i.get("url") for i in existing.get("items", [])] == [i["url"] for i in data["items"]]:
         print("Same three stories as the current briefing - leaving it untouched (still dated %s)."
               % existing.get("updated"))
