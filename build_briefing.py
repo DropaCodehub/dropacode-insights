@@ -84,11 +84,14 @@ NOISE = [
     "join the", "forum", "webinar", "conference", "summit", "workshop", "save the date",
     "call for applications", "call for expression", "award", "prize", "vacancy",
     "job opening", "newsletter", "podcast", "registration is open", "anniversary",
+    # roundups and procedural filler that read badly as a headline
+    "daily news", "weekly roundup", "midday express", "board of appeal", "dismisses appeal",
+    "agenda", "minutes of", "speech by", "statement by the president",
 ]
 
 # A story must clear this to be publishable at all. Better an unchanged week
 # than three weak cards on the homepage.
-MIN_SCORE = 9.0
+MIN_SCORE = 10.0
 
 
 def get(url, timeout=30):
@@ -247,18 +250,25 @@ def main():
 
     print("Collecting headlines...")
     candidates = collect()
-    picks = select(candidates, exclude=on_page)
 
-    if len(picks) < 3:
-        # Nothing new cleared the bar. Rather than publish filler, try again
-        # allowing the current stories back in - if that still yields the same
-        # three, the no-op check below leaves the page untouched.
-        print("Only %d genuinely new stories - falling back to the full pool." % len(picks))
-        picks = select(candidates)
-
+    # Quality first: take the three best stories on merit, whatever they are.
+    picks = select(candidates)
     if len(picks) < 3:
         print("Only %d stories cleared the bar - leaving the existing briefing in place." % len(picks))
         return
+
+    # Freshness second: if that is exactly what is already on the page, swap the
+    # weakest slot for the best story not currently shown. The strongest item
+    # stays put; the page still visibly moves. Forcing all three to rotate is
+    # what dragged filler onto the homepage.
+    if on_page and {p[2]["url"] for p in picks} == on_page:
+        fresh = select(candidates, n=1, exclude=on_page)
+        if fresh:
+            picks[-1] = fresh[0]
+            print("Top three unchanged - rotating the weakest slot for: %s" % fresh[0][2]["title"][:70])
+        else:
+            print("Nothing new cleared the bar; leaving the current briefing in place.")
+            return
 
     data = {
         "updated": today,
