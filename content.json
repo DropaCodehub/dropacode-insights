@@ -4,11 +4,11 @@
   "heading": "Technology & Trends",
   "items": [
     {
-      "tag": "EU Regulation",
-      "headline": "Daily News 17 / 08 / 2026",
-      "summary": "European Commission Daily news Brussels, 17 Aug 2026 Commission adopts guidance on fiscal flexibility for energy security measures The European Commission has adopted a notice providing Member States with further",
-      "source": "European Commission",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1737"
+      "tag": "Finance & Risk",
+      "headline": "EBA, EIOPA and ESMA call for enhanced governance and consistent supervision to mitigate ICT risks from frontier AI models in the EU financial sector",
+      "summary": "EBA, EIOPA and ESMA call for enhanced governance and consistent supervision to mitigate ICT risks from frontier AI models in the EU financial sector 31 July 2026 Digital Finance and Innovation Joint Committee The European Supervisory Authorities (EBA, EIOPA and ESMA – the ESAs) today published a statement calling for a cross-sectoral, risk-based and consistent supervisory approach to…",
+      "source": "ESMA",
+      "url": "https://www.esma.europa.eu/press-news/esma-news/eba-eiopa-and-esma-call-enhanced-governance-and-consistent-supervision"
     },
     {
       "tag": "AI & Automation",
@@ -18,11 +18,11 @@
       "url": "https://thehackernews.com/2026/08/cisa-flags-actively-exploited-ray-flaw.html"
     },
     {
-      "tag": "Finance & Risk",
-      "headline": "Joint Board of Appeal dismisses appeal against the EBA",
-      "summary": "Joint Board of Appeal dismisses appeal against the EBA 16 July 2026 Board of Appeal The Joint Board of Appeal of the European Supervisory Authorities (EBA, EIOPA and ESMA – the ESAs) has issued a decision stating that an appeal brought by an individual against the European Banking Authority (EBA) is inadmissible.",
+      "tag": "EU Regulation",
+      "headline": "EBA, EIOPA and ESMA propose amendments to bilateral margin requirements",
+      "summary": "EBA, EIOPA and ESMA propose amendments to bilateral margin requirements 03 August 2026 Joint Committee Trading The European Supervisory Authorities (EBA, EIOPA and ESMA – the ESAs) today published a final report on draft Regulatory Technical Standards (RTS), proposing to simplify the bilateral margin requirements of the European Commission’s Delegated Regulation (EU) 2016/2251.",
       "source": "ESMA",
-      "url": "https://www.esma.europa.eu/press-news/esma-news/joint-board-appeal-dismisses-appeal-against-eba"
+      "url": "https://www.esma.europa.eu/press-news/esma-news/eba-eiopa-and-esma-propose-amendments-bilateral-margin-requirements"
     }
   ]
 }
