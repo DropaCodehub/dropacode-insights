@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19",
+  "updated": "2026-08-21",
   "eyebrow": "Latest briefing",
   "heading": "Technology & Trends",
   "items": [
@@ -11,18 +11,18 @@
       "url": "https://www.esma.europa.eu/press-news/esma-news/eba-eiopa-and-esma-call-enhanced-governance-and-consistent-supervision"
     },
     {
-      "tag": "EU Regulation",
-      "headline": "EBA, EIOPA and ESMA propose amendments to bilateral margin requirements",
-      "summary": "EBA, EIOPA and ESMA propose amendments to bilateral margin requirements 03 August 2026 Joint Committee Trading The European Supervisory Authorities (EBA, EIOPA and ESMA – the ESAs) today published a final report on draft Regulatory Technical Standards (RTS), proposing to simplify the bilateral margin requirements of the European Commission’s Delegated Regulation (EU) 2016/2251.",
-      "source": "ESMA",
-      "url": "https://www.esma.europa.eu/press-news/esma-news/eba-eiopa-and-esma-propose-amendments-bilateral-margin-requirements"
+      "tag": "AI & Automation",
+      "headline": "AI-Generated Exploit Scripts Target Siemens S7 PLCs in U.S. Critical Infrastructure",
+      "summary": "The U.S. government on Wednesday warned of an \"active threat\" targeting critical infrastructure organizations in the country using artificial intelligence (AI)-generated exploit scripts. The activity is targeting Siemens S7 SeriesProgrammable Logic Controllers (PLCs) to conduct reconnaissance and capability development using AI-generated scripts disguised as legitimate monitoring tools. That.",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/ai-generated-exploit-scripts-target.html"
     },
     {
-      "tag": "Finance & Risk",
-      "headline": "ESMA publishes report on cross-border investment services supervision",
-      "summary": "ESMA publishes report on cross-border investment services supervision 20 July 2026 Supervisory convergence The European Securities and Markets Authority (ESMA), the EU’s financial markets regulator and supervisor, today published its follow-up report to the Peer Review on the supervision of cross-border activities of investment firms.",
-      "source": "ESMA",
-      "url": "https://www.esma.europa.eu/press-news/esma-news/esma-publishes-report-cross-border-investment-services-supervision"
+      "tag": "Security",
+      "headline": "CISA warns of hackers exploiting critical MLflow vulnerability",
+      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that threat actors are now exploiting a critical vulnerability in the MLflow open-source AI engineering platform. [...].",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-mlflow-vulnerability/"
     }
   ]
 }
