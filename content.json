@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21",
+  "updated": "2026-08-23",
   "eyebrow": "Latest briefing",
   "heading": "Technology & Trends",
   "items": [
@@ -18,11 +18,11 @@
       "url": "https://thehackernews.com/2026/08/ai-generated-exploit-scripts-target.html"
     },
     {
-      "tag": "Security",
-      "headline": "CISA warns of hackers exploiting critical MLflow vulnerability",
-      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that threat actors are now exploiting a critical vulnerability in the MLflow open-source AI engineering platform. [...].",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-mlflow-vulnerability/"
+      "tag": "EU Regulation",
+      "headline": "EBA, EIOPA and ESMA propose amendments to bilateral margin requirements",
+      "summary": "EBA, EIOPA and ESMA propose amendments to bilateral margin requirements 03 August 2026 Joint Committee Trading The European Supervisory Authorities (EBA, EIOPA and ESMA – the ESAs) today published a final report on draft Regulatory Technical Standards (RTS), proposing to simplify the bilateral margin requirements of the European Commission’s Delegated Regulation (EU) 2016/2251.",
+      "source": "ESMA",
+      "url": "https://www.esma.europa.eu/press-news/esma-news/eba-eiopa-and-esma-propose-amendments-bilateral-margin-requirements"
     }
   ]
 }
