@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23",
+  "updated": "2026-08-25",
   "eyebrow": "Latest briefing",
   "heading": "Technology & Trends",
   "items": [
@@ -19,10 +19,10 @@
     },
     {
       "tag": "EU Regulation",
-      "headline": "EBA, EIOPA and ESMA propose amendments to bilateral margin requirements",
-      "summary": "EBA, EIOPA and ESMA propose amendments to bilateral margin requirements 03 August 2026 Joint Committee Trading The European Supervisory Authorities (EBA, EIOPA and ESMA – the ESAs) today published a final report on draft Regulatory Technical Standards (RTS), proposing to simplify the bilateral margin requirements of the European Commission’s Delegated Regulation (EU) 2016/2251.",
-      "source": "ESMA",
-      "url": "https://www.esma.europa.eu/press-news/esma-news/eba-eiopa-and-esma-propose-amendments-bilateral-margin-requirements"
+      "headline": "Commission approves €6.1 billion for Ukraine's defence",
+      "summary": "European Commission Press release Brussels, 24 Aug 2026 On Ukraine Independence Day, the European Commission has approved €6.1 billion in new defence procurement for Ukraine. This funding covers air and missile defence systems, missiles, ammunitions and radars, reaffirming Europe's commitment to supporting Ukraine's defence and resilience against Russia's ongoing aggression",
+      "source": "European Commission",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1750"
     }
   ]
 }
