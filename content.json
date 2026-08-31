@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29",
+  "updated": "2026-08-31",
   "eyebrow": "Latest briefing",
   "heading": "Technology & Trends",
   "items": [
@@ -18,11 +18,11 @@
       "url": "https://thehackernews.com/2026/08/us-sanctions-iran-linked-hackers-behind.html"
     },
     {
-      "tag": "Finance & Risk",
-      "headline": "ESMA publishes report on cross-border investment services supervision",
-      "summary": "ESMA publishes report on cross-border investment services supervision 20 July 2026 Supervisory convergence The European Securities and Markets Authority (ESMA), the EU’s financial markets regulator and supervisor, today published its follow-up report to the Peer Review on the supervision of cross-border activities of investment firms.",
+      "tag": "EU Regulation",
+      "headline": "EBA, EIOPA and ESMA propose amendments to bilateral margin requirements",
+      "summary": "EBA, EIOPA and ESMA propose amendments to bilateral margin requirements 03 August 2026 Joint Committee Trading The European Supervisory Authorities (EBA, EIOPA and ESMA – the ESAs) today published a final report on draft Regulatory Technical Standards (RTS), proposing to simplify the bilateral margin requirements of the European Commission’s Delegated Regulation (EU) 2016/2251.",
       "source": "ESMA",
-      "url": "https://www.esma.europa.eu/press-news/esma-news/esma-publishes-report-cross-border-investment-services-supervision"
+      "url": "https://www.esma.europa.eu/press-news/esma-news/eba-eiopa-and-esma-propose-amendments-bilateral-margin-requirements"
     }
   ]
 }
