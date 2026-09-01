@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31",
+  "updated": "2026-09-01",
   "eyebrow": "Latest briefing",
   "heading": "Technology & Trends",
   "items": [
@@ -11,18 +11,18 @@
       "url": "https://www.esma.europa.eu/press-news/esma-news/eba-eiopa-and-esma-call-enhanced-governance-and-consistent-supervision"
     },
     {
+      "tag": "EU Regulation",
+      "headline": "Statement in context of G20 Finance Ministers and Central Bank Governors meetings on 31 August and 1 September, in Asheville, US",
+      "summary": "European Commission Statement Brussels, 31 Aug 2026 The European Union has consistently urged Iran to curb its nuclear programme, and its ballistic missile programme, refrain from destabilising activities in the",
+      "source": "European Commission",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1777"
+    },
+    {
       "tag": "Cloud & Sovereignty",
       "headline": "U.S. Sanctions Iran-Linked Hackers Behind Critical Infrastructure Breaches",
       "summary": "The U.S. Department of the Treasury has announced fresh sanctions on Iranian cyber actors as part of what it called an \"unprecedented, whole-of-government, economic campaign\" against the nation and its enablers. \"We are launching an economic onslaught against Iran's financial connections around the globe. Our objective is to sever every economic lifeline that sustains this tyrannical regime.",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/08/us-sanctions-iran-linked-hackers-behind.html"
-    },
-    {
-      "tag": "EU Regulation",
-      "headline": "EBA, EIOPA and ESMA propose amendments to bilateral margin requirements",
-      "summary": "EBA, EIOPA and ESMA propose amendments to bilateral margin requirements 03 August 2026 Joint Committee Trading The European Supervisory Authorities (EBA, EIOPA and ESMA – the ESAs) today published a final report on draft Regulatory Technical Standards (RTS), proposing to simplify the bilateral margin requirements of the European Commission’s Delegated Regulation (EU) 2016/2251.",
-      "source": "ESMA",
-      "url": "https://www.esma.europa.eu/press-news/esma-news/eba-eiopa-and-esma-propose-amendments-bilateral-margin-requirements"
     }
   ]
 }
