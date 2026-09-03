@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01",
+  "updated": "2026-09-03",
   "eyebrow": "Latest briefing",
   "heading": "Technology & Trends",
   "items": [
@@ -19,10 +19,10 @@
     },
     {
       "tag": "Cloud & Sovereignty",
-      "headline": "U.S. Sanctions Iran-Linked Hackers Behind Critical Infrastructure Breaches",
-      "summary": "The U.S. Department of the Treasury has announced fresh sanctions on Iranian cyber actors as part of what it called an \"unprecedented, whole-of-government, economic campaign\" against the nation and its enablers. \"We are launching an economic onslaught against Iran's financial connections around the globe. Our objective is to sever every economic lifeline that sustains this tyrannical regime.",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/us-sanctions-iran-linked-hackers-behind.html"
+      "headline": "Lords considers government emergency AI kill switch",
+      "summary": "An amendment to the UK’s Cyber Security and Resilience Bill will give the government powers to switch off AI systems or data centres in an emergency.",
+      "source": "Computer Weekly",
+      "url": "https://www.computerweekly.com/news/366650054/Lords-considers-government-emergency-AI-kill-switch"
     }
   ]
 }
