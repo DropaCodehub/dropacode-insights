@@ -1,8 +1,15 @@
 {
-  "updated": "2026-09-03",
+  "updated": "2026-09-05",
   "eyebrow": "Latest briefing",
   "heading": "Technology & Trends",
   "items": [
+    {
+      "tag": "Cloud & Sovereignty",
+      "headline": "Interview: Oracle accelerates Middle East cloud expansion as demand for sovereign AI rises",
+      "summary": "The company is expanding its regional cloud footprint, growing sovereign cloud deployments and investing in AI skills development as governments and enterprises seek control over data, compliance and artificial intelligence.",
+      "source": "Computer Weekly",
+      "url": "https://www.computerweekly.com/news/366649171/Interview-Oracle-accelerates-Middle-East-cloud-expansion-as-demand-for-sovereign-AI-rises"
+    },
     {
       "tag": "Finance & Risk",
       "headline": "EBA, EIOPA and ESMA call for enhanced governance and consistent supervision to mitigate ICT risks from frontier AI models in the EU financial sector",
@@ -12,17 +19,10 @@
     },
     {
       "tag": "EU Regulation",
-      "headline": "Statement in context of G20 Finance Ministers and Central Bank Governors meetings on 31 August and 1 September, in Asheville, US",
-      "summary": "European Commission Statement Brussels, 31 Aug 2026 The European Union has consistently urged Iran to curb its nuclear programme, and its ballistic missile programme, refrain from destabilising activities in the",
+      "headline": "Statement by President von der Leyen with NATO Secretary-General Mark Rutte",
+      "summary": "European Commission Statement Brussels, 02 Sep 2026 We meet today to discuss Russia's attack in Leipzig. The German government has identified Russia as behind an attempt to attack cargo planes at Leipzig/Halle Airport. Had this attack succeeded, this would have resulted in enormous damage and possibly even loss of life.",
       "source": "European Commission",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1777"
-    },
-    {
-      "tag": "Cloud & Sovereignty",
-      "headline": "Lords considers government emergency AI kill switch",
-      "summary": "An amendment to the UK’s Cyber Security and Resilience Bill will give the government powers to switch off AI systems or data centres in an emergency.",
-      "source": "Computer Weekly",
-      "url": "https://www.computerweekly.com/news/366650054/Lords-considers-government-emergency-AI-kill-switch"
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1790"
     }
   ]
 }
