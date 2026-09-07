@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05",
+  "updated": "2026-09-07",
   "eyebrow": "Latest briefing",
   "heading": "Technology & Trends",
   "items": [
@@ -19,10 +19,10 @@
     },
     {
       "tag": "EU Regulation",
-      "headline": "Statement by President von der Leyen with NATO Secretary-General Mark Rutte",
-      "summary": "European Commission Statement Brussels, 02 Sep 2026 We meet today to discuss Russia's attack in Leipzig. The German government has identified Russia as behind an attempt to attack cargo planes at Leipzig/Halle Airport. Had this attack succeeded, this would have resulted in enormous damage and possibly even loss of life.",
-      "source": "European Commission",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1790"
+      "headline": "EBA, EIOPA and ESMA propose amendments to bilateral margin requirements",
+      "summary": "EBA, EIOPA and ESMA propose amendments to bilateral margin requirements 03 August 2026 Joint Committee Trading The European Supervisory Authorities (EBA, EIOPA and ESMA – the ESAs) today published a final report on draft Regulatory Technical Standards (RTS), proposing to simplify the bilateral margin requirements of the European Commission’s Delegated Regulation (EU) 2016/2251.",
+      "source": "ESMA",
+      "url": "https://www.esma.europa.eu/press-news/esma-news/eba-eiopa-and-esma-propose-amendments-bilateral-margin-requirements"
     }
   ]
 }
