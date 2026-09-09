@@ -1,15 +1,8 @@
 {
-  "updated": "2026-09-07",
+  "updated": "2026-09-09",
   "eyebrow": "Latest briefing",
   "heading": "Technology & Trends",
   "items": [
-    {
-      "tag": "Cloud & Sovereignty",
-      "headline": "Interview: Oracle accelerates Middle East cloud expansion as demand for sovereign AI rises",
-      "summary": "The company is expanding its regional cloud footprint, growing sovereign cloud deployments and investing in AI skills development as governments and enterprises seek control over data, compliance and artificial intelligence.",
-      "source": "Computer Weekly",
-      "url": "https://www.computerweekly.com/news/366649171/Interview-Oracle-accelerates-Middle-East-cloud-expansion-as-demand-for-sovereign-AI-rises"
-    },
     {
       "tag": "Finance & Risk",
       "headline": "EBA, EIOPA and ESMA call for enhanced governance and consistent supervision to mitigate ICT risks from frontier AI models in the EU financial sector",
@@ -19,10 +12,17 @@
     },
     {
       "tag": "EU Regulation",
-      "headline": "EBA, EIOPA and ESMA propose amendments to bilateral margin requirements",
-      "summary": "EBA, EIOPA and ESMA propose amendments to bilateral margin requirements 03 August 2026 Joint Committee Trading The European Supervisory Authorities (EBA, EIOPA and ESMA – the ESAs) today published a final report on draft Regulatory Technical Standards (RTS), proposing to simplify the bilateral margin requirements of the European Commission’s Delegated Regulation (EU) 2016/2251.",
-      "source": "ESMA",
-      "url": "https://www.esma.europa.eu/press-news/esma-news/eba-eiopa-and-esma-propose-amendments-bilateral-margin-requirements"
+      "headline": "Statement by President von der Leyen on the derogation for Ukraine to purchase crucial products for Patriot air defence systems",
+      "summary": "European Commission Statement Brussels, 08 Sep 2026 Together with NATO Secretary General Rutte, I welcome the agreement by Member States on the derogation for Ukraine to purchase crucial products for Patriot air",
+      "source": "European Commission",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1818"
+    },
+    {
+      "tag": "EU Regulation",
+      "headline": "Joint Declaration by the European Union, on the one hand, and the Government of Greenland and the Government of Denmark, on the other, on relations between the European Union and Greenland",
+      "summary": "European Commission Statement Nuuk, 07 Sep 2026 The European Union, on the one hand, and the Government of Greenland and the Government of Denmark, on the other, (hereinafter 'the Sides') guided by th",
+      "source": "European Commission",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1804"
     }
   ]
 }
