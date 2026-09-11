@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09",
+  "updated": "2026-09-11",
   "eyebrow": "Latest briefing",
   "heading": "Technology & Trends",
   "items": [
@@ -12,17 +12,17 @@
     },
     {
       "tag": "EU Regulation",
-      "headline": "Statement by President von der Leyen on the derogation for Ukraine to purchase crucial products for Patriot air defence systems",
-      "summary": "European Commission Statement Brussels, 08 Sep 2026 Together with NATO Secretary General Rutte, I welcome the agreement by Member States on the derogation for Ukraine to purchase crucial products for Patriot air",
+      "headline": "Opening remarks by Commissioner Albuquerque at the structured dialogue with the Committee on Economic and Monetary Affairs and presentation of the Report on the competitiveness of the EU banking secto",
+      "summary": "European Commission Speech Brussels, 10 Sep 2026 Madam Chair, Honourable Members, I am delighted to have the opportunity to discuss with you today on our shared effort under the Savings and Investments Union",
       "source": "European Commission",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1818"
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1840"
     },
     {
       "tag": "EU Regulation",
-      "headline": "Joint Declaration by the European Union, on the one hand, and the Government of Greenland and the Government of Denmark, on the other, on relations between the European Union and Greenland",
-      "summary": "European Commission Statement Nuuk, 07 Sep 2026 The European Union, on the one hand, and the Government of Greenland and the Government of Denmark, on the other, (hereinafter 'the Sides') guided by th",
-      "source": "European Commission",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1804"
+      "headline": "EBA E-mail alert 9 September, 2026",
+      "summary": "EBA E-mail alert 9 September, 2026 Date 09/09/2026 Anonymous (not verified) Wed, 09/09/2026 - 17:00 News & Press The EBA responds to the European Commission’s non-adoption of draft amending technical standards on prior permission.",
+      "source": "European Banking Authority",
+      "url": "https://www.eba.europa.eu/node/19987"
     }
   ]
 }
