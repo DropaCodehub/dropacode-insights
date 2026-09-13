@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11",
+  "updated": "2026-09-13",
   "eyebrow": "Latest briefing",
   "heading": "Technology & Trends",
   "items": [
@@ -12,17 +12,17 @@
     },
     {
       "tag": "EU Regulation",
-      "headline": "Opening remarks by Commissioner Albuquerque at the structured dialogue with the Committee on Economic and Monetary Affairs and presentation of the Report on the competitiveness of the EU banking secto",
-      "summary": "European Commission Speech Brussels, 10 Sep 2026 Madam Chair, Honourable Members, I am delighted to have the opportunity to discuss with you today on our shared effort under the Savings and Investments Union",
-      "source": "European Commission",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1840"
+      "headline": "Revolut confirms customer data breach through fake government requests",
+      "summary": "Revolut said it notified affected customers and alerted the relevant government agency, law enforcement, and financial regulators",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/"
     },
     {
       "tag": "EU Regulation",
-      "headline": "EBA E-mail alert 9 September, 2026",
-      "summary": "EBA E-mail alert 9 September, 2026 Date 09/09/2026 Anonymous (not verified) Wed, 09/09/2026 - 17:00 News & Press The EBA responds to the European Commission’s non-adoption of draft amending technical standards on prior permission.",
-      "source": "European Banking Authority",
-      "url": "https://www.eba.europa.eu/node/19987"
+      "headline": "Trump is giving data centers a pass to pollute",
+      "summary": "President Donald Trump is weakening environmental regulations in the name of speeding up the construction of AI data centers, raising health risks for Americans, a cadre of former EPA officials said this week in a briefing and new report. They are urging - perhaps futilely - the president to adopt a \"Data Center Health Protection […].",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa"
     }
   ]
 }
