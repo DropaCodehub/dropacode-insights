@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13",
+  "updated": "2026-09-15",
   "eyebrow": "Latest briefing",
   "heading": "Technology & Trends",
   "items": [
@@ -11,18 +11,18 @@
       "url": "https://www.esma.europa.eu/press-news/esma-news/eba-eiopa-and-esma-call-enhanced-governance-and-consistent-supervision"
     },
     {
-      "tag": "EU Regulation",
-      "headline": "Revolut confirms customer data breach through fake government requests",
-      "summary": "Revolut said it notified affected customers and alerted the relevant government agency, law enforcement, and financial regulators",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/"
+      "tag": "Cloud & Sovereignty",
+      "headline": "The latest AI doomsayer is China’s intelligence boss",
+      "summary": "Beijing’s response is to ‘firmly grasp technological sovereignty’ and broad regulations.",
+      "source": "The Register",
+      "url": "https://www.theregister.com/ai-and-ml/2026/09/15/the-latest-ai-doomsayer-is-chinas-intelligence-boss/5296451"
     },
     {
       "tag": "EU Regulation",
-      "headline": "Trump is giving data centers a pass to pollute",
-      "summary": "President Donald Trump is weakening environmental regulations in the name of speeding up the construction of AI data centers, raising health risks for Americans, a cadre of former EPA officials said this week in a briefing and new report. They are urging - perhaps futilely - the president to adopt a \"Data Center Health Protection […].",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa"
+      "headline": "Remarks by Commissioner Šefčovič at the European Parliament Plenary debate on the Union Customs Code and Customs Authority",
+      "summary": "European Commission Speech Strasbourg, 14 Sep 2026 Madam President, Honourable Members. The Customs Reform has been a collective effort towards a shared objective: upgrading our Customs Union, ensuring it will f",
+      "source": "European Commission",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1867"
     }
   ]
 }
