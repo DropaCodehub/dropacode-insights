@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17",
+  "updated": "2026-09-19",
   "eyebrow": "Latest briefing",
   "heading": "Technology & Trends",
   "items": [
@@ -11,18 +11,18 @@
       "url": "https://www.esma.europa.eu/press-news/esma-news/eba-eiopa-and-esma-call-enhanced-governance-and-consistent-supervision"
     },
     {
-      "tag": "Cloud & Sovereignty",
-      "headline": "The latest AI doomsayer is China’s intelligence boss",
-      "summary": "Beijing’s response is to ‘firmly grasp technological sovereignty’ and broad regulations.",
-      "source": "The Register",
-      "url": "https://www.theregister.com/ai-and-ml/2026/09/15/the-latest-ai-doomsayer-is-chinas-intelligence-boss/5296451"
+      "tag": "EU Regulation",
+      "headline": "Commission disburses €3.3 billion in defence funding to Ukraine",
+      "summary": "European Commission Press release Brussels, 18 Sep 2026 The European Commission will today disburse €3.3 billion to Ukraine for defence procurement under the €90 billion Ukraine Support Loan",
+      "source": "European Commission",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1900"
     },
     {
       "tag": "EU Regulation",
-      "headline": "Statement by Commissioner Dombrovskis at the European Parliament plenary debate on stopping gold-plating and relieving SMEs",
-      "summary": "European Commission Statement Strasbourg, 16 Sep 2026 Madame Chair, Minister, Honourable Members. Thank you for this opportunity to discuss the issue of gold-plating, right after the 2026 State of the Union Address",
+      "headline": "Proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy'",
+      "summary": "Proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy' Anonymous (not verified) Thu, 09/17/2026 - 09:21 This proposal seeks to protect minors from risky digital services and AI systems, uphold the digital single market and maintain a coherent regulatory framework and enforcement structure for the protection of minors online.",
       "source": "European Commission",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1887"
+      "url": "https://digital-strategy.ec.europa.eu/en/library/proposal-eu-kids-act-eu-keeping-internet-digital-spaces-accountable-and-trustworthy"
     }
   ]
 }
