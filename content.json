@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21",
+  "updated": "2026-09-23",
   "eyebrow": "Latest briefing",
   "heading": "Technology & Trends",
   "items": [
@@ -12,17 +12,17 @@
     },
     {
       "tag": "EU Regulation",
-      "headline": "Commission enhances energy efficiency and sustainability of data centres in the EU",
-      "summary": "European Commission Press release Brussels, 21 Sep 2026 The European Commission proposed today a common rating scheme for data centres aimed at increasing transparency on their energy use and supporting their sustainable integration into Europe's energy system",
+      "headline": "Joint press release - Launch of a French National Hub for Social, Intermediate and Sustainable Housing",
+      "summary": "European Commission Press release Bordeaux, 23 Sep 2026 A strategic cooperation between the French State, Caisse des Dépôts, the Union sociale pour l'Habitat (USH), the European Investment Bank (EIB) and the Council of Europe Development Bank (CEB), supported by the European Commission, to accelerate housing delivery in the social housing and accommodation sectors, as well as intermediate housing",
       "source": "European Commission",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1667"
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1940"
     },
     {
-      "tag": "EU Regulation",
-      "headline": "Proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy'",
-      "summary": "Proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy' Anonymous (not verified) Thu, 09/17/2026 - 09:21 This proposal seeks to protect minors from risky digital services and AI systems, uphold the digital single market and maintain a coherent regulatory framework and enforcement structure for the protection of minors online.",
-      "source": "European Commission",
-      "url": "https://digital-strategy.ec.europa.eu/en/library/proposal-eu-kids-act-eu-keeping-internet-digital-spaces-accountable-and-trustworthy"
+      "tag": "Finance & Risk",
+      "headline": "ESAs call for vigilance over external dependencies, cyber threats and private credit risks",
+      "summary": "ESAs call for vigilance over external dependencies, cyber threats and private credit risks 23 September 2026 Joint Committee Risk monitoring The European Supervisory Authorities (EBA, EIOPA and ESMA – the ESAs) have identified external dependencies, emerging technologies and private credit as key vulnerabilities for the EU financial system in their Autumn 2026 risk update.",
+      "source": "ESMA",
+      "url": "https://www.esma.europa.eu/press-news/esma-news/esas-call-vigilance-over-external-dependencies-cyber-threats-and-private"
     }
   ]
 }
