@@ -1,21 +1,14 @@
 {
-  "updated": "2026-09-23",
+  "updated": "2026-09-25",
   "eyebrow": "Latest briefing",
   "heading": "Technology & Trends",
   "items": [
     {
-      "tag": "Finance & Risk",
-      "headline": "EBA, EIOPA and ESMA call for enhanced governance and consistent supervision to mitigate ICT risks from frontier AI models in the EU financial sector",
-      "summary": "EBA, EIOPA and ESMA call for enhanced governance and consistent supervision to mitigate ICT risks from frontier AI models in the EU financial sector 31 July 2026 Digital Finance and Innovation Joint Committee The European Supervisory Authorities (EBA, EIOPA and ESMA – the ESAs) today published a statement calling for a cross-sectoral, risk-based and consistent supervisory approach to…",
-      "source": "ESMA",
-      "url": "https://www.esma.europa.eu/press-news/esma-news/eba-eiopa-and-esma-call-enhanced-governance-and-consistent-supervision"
-    },
-    {
       "tag": "EU Regulation",
-      "headline": "Joint press release - Launch of a French National Hub for Social, Intermediate and Sustainable Housing",
-      "summary": "European Commission Press release Bordeaux, 23 Sep 2026 A strategic cooperation between the French State, Caisse des Dépôts, the Union sociale pour l'Habitat (USH), the European Investment Bank (EIB) and the Council of Europe Development Bank (CEB), supported by the European Commission, to accelerate housing delivery in the social housing and accommodation sectors, as well as intermediate housing",
+      "headline": "Commission takes action to ensure complete and timely transposition of EU directives",
+      "summary": "European Commission Infringement decisions Brussels, 25 Sep 2026 The European Commission is taking action against several EU Member States that have failed to notify the Commission of measures they have adopted to transpose E",
       "source": "European Commission",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1940"
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/inf_26_1834"
     },
     {
       "tag": "Finance & Risk",
@@ -23,6 +16,13 @@
       "summary": "ESAs call for vigilance over external dependencies, cyber threats and private credit risks 23 September 2026 Joint Committee Risk monitoring The European Supervisory Authorities (EBA, EIOPA and ESMA – the ESAs) have identified external dependencies, emerging technologies and private credit as key vulnerabilities for the EU financial system in their Autumn 2026 risk update.",
       "source": "ESMA",
       "url": "https://www.esma.europa.eu/press-news/esma-news/esas-call-vigilance-over-external-dependencies-cyber-threats-and-private"
+    },
+    {
+      "tag": "EU Regulation",
+      "headline": "Interview: Frank Karlitschek is David to Microsoft’s Goliath",
+      "summary": "With 170 employees and European Commission endorsement, Nextcloud’s founder is building Europe’s open source answer to Microsoft 365.",
+      "source": "Computer Weekly",
+      "url": "https://www.computerweekly.com/news/366651132/Interview-Frank-Karlitschek-is-David-to-Microsofts-Goliath"
     }
   ]
 }
