@@ -1,0 +1,38 @@
+{
+  "updated": "2026-09-28",
+  "eyebrow": "Insights",
+  "heading": "Insights",
+  "standfirst": "Our read on the regulatory and delivery changes shaping technology programmes in European institutions and regulated enterprises.",
+  "items": [
+    {
+      "date": "2026-09-28",
+      "tag": "EU Regulation",
+      "title": "The AI Act's simplification is now a procurement problem",
+      "body": [
+        "The AI Omnibus entered into force on 27 July, moving stand-alone high-risk obligations to December 2027 and embedded high-risk systems to August 2028. The deferral changed when compliance is tested, not what must be shown. For organisations delivering inside EU programmes the binding constraint is now the procurement cycle that runs ahead of the deadline: tenders drafted through 2027 will ask for classification records and oversight design as evidence, not intention — and that evidence only exists if the inventory work has already started."
+      ],
+      "source": "European Commission",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/ai-omnibus-enters-force"
+    },
+    {
+      "date": "2026-09-28",
+      "tag": "Cloud & Sovereignty",
+      "title": "Sovereignty tiers will reshape bidder lists before the law lands",
+      "body": [
+        "The Cloud and AI Development Act sets four assurance levels, from EU establishment with self-certification up to prohibitions on third-country control of providers, staff and software. Political agreement is not expected before late 2027, which reads as distant until you notice that migration windows are capped at twelve months once requirements apply, and that buyers are already writing sovereignty language into tenders. The architecture chosen today decides which tier can credibly be claimed later; retrofitting jurisdictional control into a running estate is the expensive path."
+      ],
+      "source": "Freshfields",
+      "url": "https://www.freshfields.com/en/our-thinking/blogs/technology-quotient/the-eus-technological-sovereignty-package-new-rules-for-cloud-and-chip-procurem-102nzxy"
+    },
+    {
+      "date": "2026-09-28",
+      "tag": "AI & Automation",
+      "title": "Agent programmes fail on operations, not on models",
+      "body": [
+        "Gartner expects 40% of enterprise applications to carry task-specific agents by the end of 2026, up from under 5% in 2025, while forecasting 40% of agentic projects cancelled by 2027. The stated reasons are worth reading closely, because none concern model capability: unbounded compute cost from systems that run continuously, absent ROI measurement, agents misreading objectives, access scoped too broadly. Those are operating-model problems — which makes delivery discipline, not model choice, the differentiator."
+      ],
+      "source": "Gartner / IDC",
+      "url": "https://www.gartner.com/en/newsroom/press-releases/2025-08-26-gartner-predicts-40-percent-of-enterprise-apps-will-feature-task-specific-ai-agents-by-2026-up-from-less-than-5-percent-in-2025"
+    }
+  ]
+}
