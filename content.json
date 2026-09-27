@@ -1,15 +1,8 @@
 {
-  "updated": "2026-09-25",
+  "updated": "2026-09-27",
   "eyebrow": "Latest briefing",
   "heading": "Technology & Trends",
   "items": [
-    {
-      "tag": "EU Regulation",
-      "headline": "Commission takes action to ensure complete and timely transposition of EU directives",
-      "summary": "European Commission Infringement decisions Brussels, 25 Sep 2026 The European Commission is taking action against several EU Member States that have failed to notify the Commission of measures they have adopted to transpose E",
-      "source": "European Commission",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/inf_26_1834"
-    },
     {
       "tag": "Finance & Risk",
       "headline": "ESAs call for vigilance over external dependencies, cyber threats and private credit risks",
@@ -19,10 +12,17 @@
     },
     {
       "tag": "EU Regulation",
-      "headline": "Interview: Frank Karlitschek is David to Microsoft’s Goliath",
-      "summary": "With 170 employees and European Commission endorsement, Nextcloud’s founder is building Europe’s open source answer to Microsoft 365.",
-      "source": "Computer Weekly",
-      "url": "https://www.computerweekly.com/news/366651132/Interview-Frank-Karlitschek-is-David-to-Microsofts-Goliath"
+      "headline": "Commission takes action to ensure complete and timely transposition of EU directives",
+      "summary": "European Commission Infringement decisions Brussels, 25 Sep 2026 The European Commission is taking action against several EU Member States that have failed to notify the Commission of measures they have adopted to transpose E",
+      "source": "European Commission",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/inf_26_1834"
+    },
+    {
+      "tag": "Cloud & Sovereignty",
+      "headline": "The SOC Doesn't Need to Start Over with Every Alert",
+      "summary": "Security leaders keep debating whether AI will produce an entirely new class of cyberattack. The nearer change is quieter and already visible: AI has made a failed attack cheap to retry. The routine version looks like this. An attacker lands on a low-privilege cloud account, and the first try at privilege escalation goes nowhere.",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/the-soc-doesnt-need-to-start-over-with.html"
     }
   ]
 }
