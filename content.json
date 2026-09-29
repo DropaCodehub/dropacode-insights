@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27",
+  "updated": "2026-09-29",
   "eyebrow": "Latest briefing",
   "heading": "Technology & Trends",
   "items": [
@@ -12,17 +12,17 @@
     },
     {
       "tag": "EU Regulation",
-      "headline": "Commission takes action to ensure complete and timely transposition of EU directives",
-      "summary": "European Commission Infringement decisions Brussels, 25 Sep 2026 The European Commission is taking action against several EU Member States that have failed to notify the Commission of measures they have adopted to transpose E",
+      "headline": "Remarks by Commissioner McGrath at the General Assembly of the United Nations' Side-Event on Shaping Democratic Agency over the course of AI Development",
+      "summary": "European Commission Speech New York, 28 Sep 2026 Excellencies, distinguished guests, ladies and gentlemen, It's a pleasure to join you at this important United Nations discussion on how countries can shape the",
       "source": "European Commission",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/inf_26_1834"
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1997"
     },
     {
-      "tag": "Cloud & Sovereignty",
-      "headline": "The SOC Doesn't Need to Start Over with Every Alert",
-      "summary": "Security leaders keep debating whether AI will produce an entirely new class of cyberattack. The nearer change is quieter and already visible: AI has made a failed attack cheap to retry. The routine version looks like this. An attacker lands on a low-privilege cloud account, and the first try at privilege escalation goes nowhere.",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/the-soc-doesnt-need-to-start-over-with.html"
+      "tag": "EU Regulation",
+      "headline": "Commission welcomes Member States' endorsement of five joint European defence projects",
+      "summary": "European Commission Press release Brussels, 29 Sep 2026 The European Commission welcomes Member States' decision to endorse the first five European Defence Projects of Common Interest (EDPCIs)",
+      "source": "European Commission",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1990"
     }
   ]
 }
