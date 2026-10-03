@@ -1,14 +1,21 @@
 {
-  "updated": "2026-10-01",
+  "updated": "2026-10-03",
   "eyebrow": "Latest briefing",
   "heading": "Technology & Trends",
   "items": [
     {
       "tag": "EU Regulation",
-      "headline": "Member States submit their final payment requests under the Recovery and Resilience Facility",
-      "summary": "European Commission Press release Brussels, 01 Oct 2026 All Member States of the EU have now submitted to the European Commission their final payment requests under the Recovery and Resilience Facility (RRF), the centrepiece of NextGenerationEU, by the deadline of 30 September 2026",
+      "headline": "Commission disburses €2.9 billion under Ukraine Facility to support financial stability and reforms",
+      "summary": "European Commission Press release Brussels, 02 Oct 2026 Today, the European Commission has released €2.9 billion to Ukraine to support financing needs and maintain the functioning of the country's public administration, as it continues to defend itself against Russia's war of aggression.",
       "source": "European Commission",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2036"
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2047"
+    },
+    {
+      "tag": "Cloud & Sovereignty",
+      "headline": "Microsoft, UAE Cyber Council and Core42 deploy AI cyber defence across government",
+      "summary": "MDASH roll-out builds on Microsoft and Core42’s expanding sovereign cloud investments in the UAE, supporting the nation’s cyber security ambitions through AI-driven threat detection and code security.",
+      "source": "Computer Weekly",
+      "url": "https://www.computerweekly.com/news/366651303/Microsoft-UAE-Cyber-Council-and-Core42-deploy-AI-Cyber-Defence-across-Government"
     },
     {
       "tag": "Finance & Risk",
@@ -16,13 +23,6 @@
       "summary": "ESAs call for vigilance over external dependencies, cyber threats and private credit risks 23 September 2026 Joint Committee Risk monitoring The European Supervisory Authorities (EBA, EIOPA and ESMA – the ESAs) have identified external dependencies, emerging technologies and private credit as key vulnerabilities for the EU financial system in their Autumn 2026 risk update.",
       "source": "ESMA",
       "url": "https://www.esma.europa.eu/press-news/esma-news/esas-call-vigilance-over-external-dependencies-cyber-threats-and-private"
-    },
-    {
-      "tag": "Cloud & Sovereignty",
-      "headline": "The SOC Doesn't Need to Start Over with Every Alert",
-      "summary": "Security leaders keep debating whether AI will produce an entirely new class of cyberattack. The nearer change is quieter and already visible: AI has made a failed attack cheap to retry. The routine version looks like this. An attacker lands on a low-privilege cloud account, and the first try at privilege escalation goes nowhere.",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/the-soc-doesnt-need-to-start-over-with.html"
     }
   ]
 }
