@@ -1,28 +1,28 @@
 {
-  "updated": "2026-10-03",
+  "updated": "2026-10-05",
   "eyebrow": "Latest briefing",
   "heading": "Technology & Trends",
   "items": [
-    {
-      "tag": "EU Regulation",
-      "headline": "Commission disburses €2.9 billion under Ukraine Facility to support financial stability and reforms",
-      "summary": "European Commission Press release Brussels, 02 Oct 2026 Today, the European Commission has released €2.9 billion to Ukraine to support financing needs and maintain the functioning of the country's public administration, as it continues to defend itself against Russia's war of aggression.",
-      "source": "European Commission",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2047"
-    },
-    {
-      "tag": "Cloud & Sovereignty",
-      "headline": "Microsoft, UAE Cyber Council and Core42 deploy AI cyber defence across government",
-      "summary": "MDASH roll-out builds on Microsoft and Core42’s expanding sovereign cloud investments in the UAE, supporting the nation’s cyber security ambitions through AI-driven threat detection and code security.",
-      "source": "Computer Weekly",
-      "url": "https://www.computerweekly.com/news/366651303/Microsoft-UAE-Cyber-Council-and-Core42-deploy-AI-Cyber-Defence-across-Government"
-    },
     {
       "tag": "Finance & Risk",
       "headline": "ESAs call for vigilance over external dependencies, cyber threats and private credit risks",
       "summary": "ESAs call for vigilance over external dependencies, cyber threats and private credit risks 23 September 2026 Joint Committee Risk monitoring The European Supervisory Authorities (EBA, EIOPA and ESMA – the ESAs) have identified external dependencies, emerging technologies and private credit as key vulnerabilities for the EU financial system in their Autumn 2026 risk update.",
       "source": "ESMA",
       "url": "https://www.esma.europa.eu/press-news/esma-news/esas-call-vigilance-over-external-dependencies-cyber-threats-and-private"
+    },
+    {
+      "tag": "Finance & Risk",
+      "headline": "ESMA calls for changes to make MiCA clearer, safer and ready for emerging services",
+      "summary": "ESMA calls for changes to make MiCA clearer, safer and ready for emerging services 30 September 2026 Digital Finance and Innovation Investor protection Simplification and Burden Reduction The European Securities and Markets Authority (ESMA), the EU’s financial markets regulator and supervisor, has responded to the European Commission’s public consultation on the review of Markets in Crypto-Assets Regulation (MiCA).",
+      "source": "ESMA",
+      "url": "https://www.esma.europa.eu/press-news/esma-news/esma-calls-changes-make-mica-clearer-safer-and-ready-emerging-services"
+    },
+    {
+      "tag": "Security",
+      "headline": "Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware",
+      "summary": "The suspected China-linked threat actor known as Warlock is still continuing to weaponize Microsoft SharePoint vulnerabilities, likely both old and new, in attacks targeting organizations in Portuguese- and Spanish-speaking countries. The activity, observed by the Symantec and Carbon Black Threat Hunter Team, has hit critical infrastructure, government, and education organizations. \"In the.",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html"
     }
   ]
 }
