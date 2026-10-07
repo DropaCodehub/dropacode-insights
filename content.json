@@ -1,8 +1,15 @@
 {
-  "updated": "2026-10-05",
+  "updated": "2026-10-07",
   "eyebrow": "Latest briefing",
   "heading": "Technology & Trends",
   "items": [
+    {
+      "tag": "Finance & Risk",
+      "headline": "Opening remarks by Commissioner Serafin during the European Parliament plenary debate – an ambitious multiannual financial framework 2028-2034 for a strong and resilient Europe",
+      "summary": "European Commission Speech Strasbourg, 07 Oct 2026 Honourable members, dear Minister Byrne, More than a year ago, the Commission has put forward its proposal for the next MFF. We have proposed a budget that refl",
+      "source": "European Commission",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2095"
+    },
     {
       "tag": "Finance & Risk",
       "headline": "ESAs call for vigilance over external dependencies, cyber threats and private credit risks",
@@ -11,18 +18,11 @@
       "url": "https://www.esma.europa.eu/press-news/esma-news/esas-call-vigilance-over-external-dependencies-cyber-threats-and-private"
     },
     {
-      "tag": "Finance & Risk",
-      "headline": "ESMA calls for changes to make MiCA clearer, safer and ready for emerging services",
-      "summary": "ESMA calls for changes to make MiCA clearer, safer and ready for emerging services 30 September 2026 Digital Finance and Innovation Investor protection Simplification and Burden Reduction The European Securities and Markets Authority (ESMA), the EU’s financial markets regulator and supervisor, has responded to the European Commission’s public consultation on the review of Markets in Crypto-Assets Regulation (MiCA).",
-      "source": "ESMA",
-      "url": "https://www.esma.europa.eu/press-news/esma-news/esma-calls-changes-make-mica-clearer-safer-and-ready-emerging-services"
-    },
-    {
-      "tag": "Security",
-      "headline": "Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware",
-      "summary": "The suspected China-linked threat actor known as Warlock is still continuing to weaponize Microsoft SharePoint vulnerabilities, likely both old and new, in attacks targeting organizations in Portuguese- and Spanish-speaking countries. The activity, observed by the Symantec and Carbon Black Threat Hunter Team, has hit critical infrastructure, government, and education organizations. \"In the.",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html"
+      "tag": "Cloud & Sovereignty",
+      "headline": "UAE positions sovereign AI as global export strategy",
+      "summary": "At AI Everything Abu Dhabi, Core42 CEO Talal Al Kaissi outlined how sovereign AI is evolving beyond national borders, with the UAE seeking to become a global hub for AI infrastructure, compute capacity and cross-border digital sovereignty.",
+      "source": "Computer Weekly",
+      "url": "https://www.computerweekly.com/news/366651665/UAE-positions-sovereign-AI-as-global-export-strategy"
     }
   ]
 }
