@@ -1,14 +1,14 @@
 {
-  "updated": "2026-10-07",
+  "updated": "2026-10-09",
   "eyebrow": "Latest briefing",
   "heading": "Technology & Trends",
   "items": [
     {
-      "tag": "Finance & Risk",
-      "headline": "Opening remarks by Commissioner Serafin during the European Parliament plenary debate – an ambitious multiannual financial framework 2028-2034 for a strong and resilient Europe",
-      "summary": "European Commission Speech Strasbourg, 07 Oct 2026 Honourable members, dear Minister Byrne, More than a year ago, the Commission has put forward its proposal for the next MFF. We have proposed a budget that refl",
-      "source": "European Commission",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2095"
+      "tag": "AI & Automation",
+      "headline": "PoeLLM Malware Infects 3,400+ Servers to Expand Crypto Mining Botnet",
+      "summary": "Cybersecurity researchers are calling attention to a new malware family that has been observed targeting exposed artificial intelligence (AI) and large language model (LLM) infrastructure with an aim to deploy cryptocurrency miners and further expand the scale of the botnet. The financially motivated campaign, dubbed Canto Incognito, has been found to install cryptocurrency miners, including.",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/poellm-malware-infects-3400-servers-to.html"
     },
     {
       "tag": "Finance & Risk",
@@ -18,11 +18,11 @@
       "url": "https://www.esma.europa.eu/press-news/esma-news/esas-call-vigilance-over-external-dependencies-cyber-threats-and-private"
     },
     {
-      "tag": "Cloud & Sovereignty",
-      "headline": "UAE positions sovereign AI as global export strategy",
-      "summary": "At AI Everything Abu Dhabi, Core42 CEO Talal Al Kaissi outlined how sovereign AI is evolving beyond national borders, with the UAE seeking to become a global hub for AI infrastructure, compute capacity and cross-border digital sovereignty.",
-      "source": "Computer Weekly",
-      "url": "https://www.computerweekly.com/news/366651665/UAE-positions-sovereign-AI-as-global-export-strategy"
+      "tag": "EU Regulation",
+      "headline": "European AI Innovation Month",
+      "summary": "European AI Innovation Month Anonymous (not verified) Thu, 10/08/2026 - 09:00 14 October 2026 - 17 November 2026 From 14 October to 17 November 2026, this initiative led by the European Commission in partnership with the upcoming Irish Presidency of the Council will promote a series of online and in-person events showcasing AI innovation and adoption across Europe.",
+      "source": "European Commission",
+      "url": "https://digital-strategy.ec.europa.eu/en/events/european-ai-innovation-month"
     }
   ]
 }
