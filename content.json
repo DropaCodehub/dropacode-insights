@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09",
+  "updated": "2026-10-11",
   "eyebrow": "Latest briefing",
   "heading": "Technology & Trends",
   "items": [
@@ -19,10 +19,10 @@
     },
     {
       "tag": "EU Regulation",
-      "headline": "European AI Innovation Month",
-      "summary": "European AI Innovation Month Anonymous (not verified) Thu, 10/08/2026 - 09:00 14 October 2026 - 17 November 2026 From 14 October to 17 November 2026, this initiative led by the European Commission in partnership with the upcoming Irish Presidency of the Council will promote a series of online and in-person events showcasing AI innovation and adoption across Europe.",
+      "headline": "Commission selects 46 new Strategic Projects to bolster the EU's supply of critical raw materials",
+      "summary": "European Commission Press release Brussels, 09 Oct 2026 To strengthen EU supply chains and diversify sources of critical raw materials, the European Commission today announced that it has selected 46 new Strategic Projects across 16 Member States",
       "source": "European Commission",
-      "url": "https://digital-strategy.ec.europa.eu/en/events/european-ai-innovation-month"
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2113"
     }
   ]
 }
