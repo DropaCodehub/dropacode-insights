@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11",
+  "updated": "2026-10-13",
   "eyebrow": "Latest briefing",
   "heading": "Technology & Trends",
   "items": [
@@ -11,18 +11,18 @@
       "url": "https://thehackernews.com/2026/10/poellm-malware-infects-3400-servers-to.html"
     },
     {
-      "tag": "Finance & Risk",
-      "headline": "ESAs call for vigilance over external dependencies, cyber threats and private credit risks",
-      "summary": "ESAs call for vigilance over external dependencies, cyber threats and private credit risks 23 September 2026 Joint Committee Risk monitoring The European Supervisory Authorities (EBA, EIOPA and ESMA – the ESAs) have identified external dependencies, emerging technologies and private credit as key vulnerabilities for the EU financial system in their Autumn 2026 risk update.",
-      "source": "ESMA",
-      "url": "https://www.esma.europa.eu/press-news/esma-news/esas-call-vigilance-over-external-dependencies-cyber-threats-and-private"
+      "tag": "EU Regulation",
+      "headline": "European AI Innovation Month",
+      "summary": "European AI Innovation Month Anonymous (not verified) Thu, 10/08/2026 - 09:00 14 October 2026 - 17 November 2026 From 14 October to 17 November 2026, this initiative led by the European Commission in partnership with the upcoming Irish Presidency of the Council will promote a series of online and in-person events showcasing AI innovation and adoption across Europe.",
+      "source": "European Commission",
+      "url": "https://digital-strategy.ec.europa.eu/en/events/european-ai-innovation-month"
     },
     {
-      "tag": "EU Regulation",
-      "headline": "Commission selects 46 new Strategic Projects to bolster the EU's supply of critical raw materials",
-      "summary": "European Commission Press release Brussels, 09 Oct 2026 To strengthen EU supply chains and diversify sources of critical raw materials, the European Commission today announced that it has selected 46 new Strategic Projects across 16 Member States",
-      "source": "European Commission",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2113"
+      "tag": "Finance & Risk",
+      "headline": "Wazza Phishkit Targets Banking, Government, and Manufacturing Across the US, EU, and Australia",
+      "summary": "Phishing kits are no longer limited to copying a familiar login page and waiting for a victim to enter credentials. Attackers are increasingly building filtering, session management, and traffic controls into the infrastructure that delivers the phishing page itself. ANY.RUN has identified Wazza, a new phishkit targeting banking, manufacturing, and government organizations across the US, Europe.",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/wazza-phishkit-targets-banking.html"
     }
   ]
 }
