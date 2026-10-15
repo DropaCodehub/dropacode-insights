@@ -1,28 +1,28 @@
 {
-  "updated": "2026-10-13",
+  "updated": "2026-10-15",
   "eyebrow": "Latest briefing",
   "heading": "Technology & Trends",
   "items": [
     {
-      "tag": "AI & Automation",
-      "headline": "PoeLLM Malware Infects 3,400+ Servers to Expand Crypto Mining Botnet",
-      "summary": "Cybersecurity researchers are calling attention to a new malware family that has been observed targeting exposed artificial intelligence (AI) and large language model (LLM) infrastructure with an aim to deploy cryptocurrency miners and further expand the scale of the botnet. The financially motivated campaign, dubbed Canto Incognito, has been found to install cryptocurrency miners, including.",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/poellm-malware-infects-3400-servers-to.html"
+      "tag": "Cloud & Sovereignty",
+      "headline": "Starling Bank claims first banking AI trained on UK sovereign cloud",
+      "summary": "Starling says ‘transactional foundation model’ will train on more than 15 billion anonymised transactions on Civo’s UK cloud – but the data tokenises in Google Cloud first.",
+      "source": "Computer Weekly",
+      "url": "https://www.computerweekly.com/news/366651839/Starling-Bank-claims-first-banking-AI-trained-on-UK-sovereign-cloud"
     },
     {
       "tag": "EU Regulation",
-      "headline": "European AI Innovation Month",
-      "summary": "European AI Innovation Month Anonymous (not verified) Thu, 10/08/2026 - 09:00 14 October 2026 - 17 November 2026 From 14 October to 17 November 2026, this initiative led by the European Commission in partnership with the upcoming Irish Presidency of the Council will promote a series of online and in-person events showcasing AI innovation and adoption across Europe.",
+      "headline": "Commissioner Roswall's speech at the Inaugural Convening of the Women Public Sector Climate Leaders Network",
+      "summary": "European Commission Speech Brussels, 14 Oct 2026 Good morning, I am delighted to be part of today's inaugural event. And I'm delighted to be sharing a room with such inspirational and impressive leaders",
       "source": "European Commission",
-      "url": "https://digital-strategy.ec.europa.eu/en/events/european-ai-innovation-month"
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2168"
     },
     {
-      "tag": "Finance & Risk",
-      "headline": "Wazza Phishkit Targets Banking, Government, and Manufacturing Across the US, EU, and Australia",
-      "summary": "Phishing kits are no longer limited to copying a familiar login page and waiting for a victim to enter credentials. Attackers are increasingly building filtering, session management, and traffic controls into the infrastructure that delivers the phishing page itself. ANY.RUN has identified Wazza, a new phishkit targeting banking, manufacturing, and government organizations across the US, Europe.",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/wazza-phishkit-targets-banking.html"
+      "tag": "EU Regulation",
+      "headline": "EBA E-mail alert 13 October, 2026",
+      "summary": "EBA E-mail alert 13 October, 2026 Date 13/10/2026 Anonymous (not verified) Tue, 10/13/2026 - 17:00 News & Press European Supervisory Authorities set priorities for 2027.",
+      "source": "European Banking Authority",
+      "url": "https://www.eba.europa.eu/node/20094"
     }
   ]
 }
