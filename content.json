@@ -1,28 +1,28 @@
 {
-  "updated": "2026-10-15",
+  "updated": "2026-10-17",
   "eyebrow": "Latest briefing",
   "heading": "Technology & Trends",
   "items": [
-    {
-      "tag": "Cloud & Sovereignty",
-      "headline": "Starling Bank claims first banking AI trained on UK sovereign cloud",
-      "summary": "Starling says ‘transactional foundation model’ will train on more than 15 billion anonymised transactions on Civo’s UK cloud – but the data tokenises in Google Cloud first.",
-      "source": "Computer Weekly",
-      "url": "https://www.computerweekly.com/news/366651839/Starling-Bank-claims-first-banking-AI-trained-on-UK-sovereign-cloud"
-    },
-    {
-      "tag": "EU Regulation",
-      "headline": "Commissioner Roswall's speech at the Inaugural Convening of the Women Public Sector Climate Leaders Network",
-      "summary": "European Commission Speech Brussels, 14 Oct 2026 Good morning, I am delighted to be part of today's inaugural event. And I'm delighted to be sharing a room with such inspirational and impressive leaders",
-      "source": "European Commission",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2168"
-    },
     {
       "tag": "EU Regulation",
       "headline": "EBA E-mail alert 13 October, 2026",
       "summary": "EBA E-mail alert 13 October, 2026 Date 13/10/2026 Anonymous (not verified) Tue, 10/13/2026 - 17:00 News & Press European Supervisory Authorities set priorities for 2027.",
       "source": "European Banking Authority",
       "url": "https://www.eba.europa.eu/node/20094"
+    },
+    {
+      "tag": "EU Regulation",
+      "headline": "ESMA's third Sanctions Report highlights the need for greater convergence in enforcement",
+      "summary": "ESMA's third Sanctions Report highlights the need for greater convergence in enforcement 15 October 2026 Market Abuse Supervisory convergence Transparency The European Securities and Markets Authority (ESMA), the EU's financial markets regulator and supervisor, published today its consolidated report on sanctions and measures imposed across the European Economic Area (EEA) in 2025, enhancing the transparency of sanctions data…",
+      "source": "ESMA",
+      "url": "https://www.esma.europa.eu/press-news/esma-news/esmas-third-sanctions-report-highlights-need-greater-convergence-enforcement"
+    },
+    {
+      "tag": "Finance & Risk",
+      "headline": "European Supervisory Authorities set priorities for 2027",
+      "summary": "European Supervisory Authorities set priorities for 2027 13 October 2026 Joint Committee The Joint Committee of the European Supervisory Authorities (EBA, EIOPA and ESMA – the ESAs) published today its Annual Work Programme for 2027 , setting out its priorities for addressing cross-sectoral risks and strengthening coordination across the European Union's financial sector.",
+      "source": "ESMA",
+      "url": "https://www.esma.europa.eu/press-news/esma-news/european-supervisory-authorities-set-priorities-2027"
     }
   ]
 }
