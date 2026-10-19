@@ -1,8 +1,15 @@
 {
-  "updated": "2026-10-17",
+  "updated": "2026-10-19",
   "eyebrow": "Latest briefing",
   "heading": "Technology & Trends",
   "items": [
+    {
+      "tag": "EU Regulation",
+      "headline": "First harmonised standard supporting the AI Act published in the Official Journal",
+      "summary": "First harmonised standard supporting the AI Act published in the Official Journal Anonymous (not verified) Mon, 10/19/2026 - 09:37 The European Commission has published the reference to the first harmonised standard supporting the implementation of the AI Act in the Official Journal of the European Union.",
+      "source": "European Commission",
+      "url": "https://digital-strategy.ec.europa.eu/en/library/first-harmonised-standard-supporting-ai-act-published-official-journal"
+    },
     {
       "tag": "EU Regulation",
       "headline": "EBA E-mail alert 13 October, 2026",
@@ -16,13 +23,6 @@
       "summary": "ESMA's third Sanctions Report highlights the need for greater convergence in enforcement 15 October 2026 Market Abuse Supervisory convergence Transparency The European Securities and Markets Authority (ESMA), the EU's financial markets regulator and supervisor, published today its consolidated report on sanctions and measures imposed across the European Economic Area (EEA) in 2025, enhancing the transparency of sanctions data…",
       "source": "ESMA",
       "url": "https://www.esma.europa.eu/press-news/esma-news/esmas-third-sanctions-report-highlights-need-greater-convergence-enforcement"
-    },
-    {
-      "tag": "Finance & Risk",
-      "headline": "European Supervisory Authorities set priorities for 2027",
-      "summary": "European Supervisory Authorities set priorities for 2027 13 October 2026 Joint Committee The Joint Committee of the European Supervisory Authorities (EBA, EIOPA and ESMA – the ESAs) published today its Annual Work Programme for 2027 , setting out its priorities for addressing cross-sectoral risks and strengthening coordination across the European Union's financial sector.",
-      "source": "ESMA",
-      "url": "https://www.esma.europa.eu/press-news/esma-news/european-supervisory-authorities-set-priorities-2027"
     }
   ]
 }
