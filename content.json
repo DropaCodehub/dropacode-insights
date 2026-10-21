@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19",
+  "updated": "2026-10-21",
   "eyebrow": "Latest briefing",
   "heading": "Technology & Trends",
   "items": [
@@ -12,17 +12,17 @@
     },
     {
       "tag": "EU Regulation",
-      "headline": "EBA E-mail alert 13 October, 2026",
-      "summary": "EBA E-mail alert 13 October, 2026 Date 13/10/2026 Anonymous (not verified) Tue, 10/13/2026 - 17:00 News & Press European Supervisory Authorities set priorities for 2027.",
-      "source": "European Banking Authority",
-      "url": "https://www.eba.europa.eu/node/20094"
+      "headline": "Digital Services Act study on financial scams on online platforms and ways to counter them",
+      "summary": "Digital Services Act study on financial scams on online platforms and ways to counter them Anonymous (not verified) Tue, 10/20/2026 - 08:47 A new study maps the main types of online financial scams, platform features scammers exploit, their impact on users and society and measures platforms can take to stop them.",
+      "source": "European Commission",
+      "url": "https://digital-strategy.ec.europa.eu/en/library/digital-services-act-study-financial-scams-online-platforms-and-ways-counter-them"
     },
     {
       "tag": "EU Regulation",
-      "headline": "ESMA's third Sanctions Report highlights the need for greater convergence in enforcement",
-      "summary": "ESMA's third Sanctions Report highlights the need for greater convergence in enforcement 15 October 2026 Market Abuse Supervisory convergence Transparency The European Securities and Markets Authority (ESMA), the EU's financial markets regulator and supervisor, published today its consolidated report on sanctions and measures imposed across the European Economic Area (EEA) in 2025, enhancing the transparency of sanctions data…",
-      "source": "ESMA",
-      "url": "https://www.esma.europa.eu/press-news/esma-news/esmas-third-sanctions-report-highlights-need-greater-convergence-enforcement"
+      "headline": "ICANN testing tech to let law enforcement access non-public WHOIS info",
+      "summary": "Single sign-on to help address imminent threats to life, critical infrastructure, or kids.",
+      "source": "The Register",
+      "url": "https://www.theregister.com/networks/2026/10/20/icann-testing-tech-to-let-law-enforcement-access-non-public-whois-info/5304036"
     }
   ]
 }
