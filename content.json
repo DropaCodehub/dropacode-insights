@@ -1,28 +1,28 @@
 {
-  "updated": "2026-10-21",
+  "updated": "2026-10-23",
   "eyebrow": "Latest briefing",
   "heading": "Technology & Trends",
   "items": [
     {
-      "tag": "EU Regulation",
-      "headline": "First harmonised standard supporting the AI Act published in the Official Journal",
-      "summary": "First harmonised standard supporting the AI Act published in the Official Journal Anonymous (not verified) Mon, 10/19/2026 - 09:37 The European Commission has published the reference to the first harmonised standard supporting the implementation of the AI Act in the Official Journal of the European Union.",
-      "source": "European Commission",
-      "url": "https://digital-strategy.ec.europa.eu/en/library/first-harmonised-standard-supporting-ai-act-published-official-journal"
+      "tag": "AI & Automation",
+      "headline": "China-Linked Hackers Use ARTEX AI Agents in ConnectWise Supply Chain Attack",
+      "summary": "Microsoft on Wednesday disclosed that a China state-aligned actor dubbed Storm-0940 was behind the recent supply chain compromise of the ConnectWise Cloud Backup application. During the incident, Storm-0940 used ARTEX, a Go-based agentic AI penetration testing framework that was made closed-source in the wake of its abuse in cyber attacks targeting South Korean financial institutions, to speed.",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html"
     },
     {
       "tag": "EU Regulation",
-      "headline": "Digital Services Act study on financial scams on online platforms and ways to counter them",
-      "summary": "Digital Services Act study on financial scams on online platforms and ways to counter them Anonymous (not verified) Tue, 10/20/2026 - 08:47 A new study maps the main types of online financial scams, platform features scammers exploit, their impact on users and society and measures platforms can take to stop them.",
+      "headline": "Opening remarks by Commissioner Kubilius at the Launch Event of the 3rd Hybrid Threats Report",
+      "summary": "European Commission Speech Brussels, 23 Oct 2026 Good morning, First, welcome to the Berlaymont. And thank you for this very important report. I have it on my desk in my office. I have read very thoroughly and",
       "source": "European Commission",
-      "url": "https://digital-strategy.ec.europa.eu/en/library/digital-services-act-study-financial-scams-online-platforms-and-ways-counter-them"
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2242"
     },
     {
       "tag": "EU Regulation",
-      "headline": "ICANN testing tech to let law enforcement access non-public WHOIS info",
-      "summary": "Single sign-on to help address imminent threats to life, critical infrastructure, or kids.",
-      "source": "The Register",
-      "url": "https://www.theregister.com/networks/2026/10/20/icann-testing-tech-to-let-law-enforcement-access-non-public-whois-info/5304036"
+      "headline": "Commission opens investigation into possible anticompetitive conduct by Omya in the supply of calcium carbonates to the paper industry",
+      "summary": "European Commission Press release Brussels, 23 Oct 2026 The European Commission has opened a formal antitrust investigation to assess whether Omya has breached EU competition rules by requiring customers in the paper industry to purchase all or most of their calcium carbonates from Omya",
+      "source": "European Commission",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2232"
     }
   ]
 }
