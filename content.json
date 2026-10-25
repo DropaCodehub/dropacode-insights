@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "eyebrow": "Latest briefing",
   "heading": "Technology & Trends",
   "items": [
@@ -11,18 +11,18 @@
       "url": "https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html"
     },
     {
+      "tag": "AI & Automation",
+      "headline": "Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions",
+      "summary": "Cybersecurity researchers have discovered an artificial intelligence (AI)-driven intrusion ecosystem run by affiliates of the INC and The Gentlemen ransomware groups. Central to the operation is an \"Autonomous Red Team Kill Chain Framework\" referred to as Phantom. The threat actor is assessed to be Russian-speaking and functions both as an intrusion and data-extortion operator, as well as an.",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html"
+    },
+    {
       "tag": "EU Regulation",
       "headline": "Opening remarks by Commissioner Kubilius at the Launch Event of the 3rd Hybrid Threats Report",
       "summary": "European Commission Speech Brussels, 23 Oct 2026 Good morning, First, welcome to the Berlaymont. And thank you for this very important report. I have it on my desk in my office. I have read very thoroughly and",
       "source": "European Commission",
       "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2242"
-    },
-    {
-      "tag": "EU Regulation",
-      "headline": "Commission opens investigation into possible anticompetitive conduct by Omya in the supply of calcium carbonates to the paper industry",
-      "summary": "European Commission Press release Brussels, 23 Oct 2026 The European Commission has opened a formal antitrust investigation to assess whether Omya has breached EU competition rules by requiring customers in the paper industry to purchase all or most of their calcium carbonates from Omya",
-      "source": "European Commission",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2232"
     }
   ]
 }
