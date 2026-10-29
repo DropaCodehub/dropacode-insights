@@ -1,28 +1,28 @@
 {
-  "updated": "2026-10-27",
+  "updated": "2026-10-29",
   "eyebrow": "Latest briefing",
   "heading": "Technology & Trends",
   "items": [
     {
-      "tag": "AI & Automation",
-      "headline": "China-Linked Hackers Use ARTEX AI Agents in ConnectWise Supply Chain Attack",
-      "summary": "Microsoft on Wednesday disclosed that a China state-aligned actor dubbed Storm-0940 was behind the recent supply chain compromise of the ConnectWise Cloud Backup application. During the incident, Storm-0940 used ARTEX, a Go-based agentic AI penetration testing framework that was made closed-source in the wake of its abuse in cyber attacks targeting South Korean financial institutions, to speed.",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html"
+      "tag": "Cloud & Sovereignty",
+      "headline": "Local Digital Twins CiTiVERSE EDIC joins Smart City Expo World Congress 2026",
+      "summary": "Local Digital Twins CiTiVERSE EDIC joins Smart City Expo World Congress 2026 Anonymous (not verified) Thu, 10/29/2026 - 09:12 03 November 2026 - 05 November 2026 Fira de Barcelona, Hall 3, Stand D71 Explore human-centric AI solutions for smart cities with the LDT CiTiVERSE EDIC at Smart City Expo World Congress 2026.",
+      "source": "European Commission",
+      "url": "https://digital-strategy.ec.europa.eu/en/events/local-digital-twins-citiverse-edic-joins-smart-city-expo-world-congress-2026"
     },
     {
       "tag": "EU Regulation",
-      "headline": "Questions and answers on the Commission proposal to reinforce Frontex: stronger border protection, a greater role on returns and more effective crisis response",
-      "summary": "European Commission Questions and answers Brussels, 27 Oct 2026 What is the role of Frontex? Since its creation in 2005, Frontex supports EU Member States and Schengen-Associated countries in the management of the EU's exter",
+      "headline": "Joint statement by High Representative/Vice-President Kallas and Commissioner Kos on the early parliamentary elections in Serbia",
+      "summary": "European Commission Statement Brussels, 28 Oct 2026 On Sunday 25 October, the people of Serbia turned out in historic numbers to make their voices heard. Voters have given the next government a strong mandate for change. We look forward to seeing this being realised in practice",
       "source": "European Commission",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/qanda_26_2261"
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2275"
     },
     {
-      "tag": "AI & Automation",
-      "headline": "Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions",
-      "summary": "Cybersecurity researchers have discovered an artificial intelligence (AI)-driven intrusion ecosystem run by affiliates of the INC and The Gentlemen ransomware groups. Central to the operation is an \"Autonomous Red Team Kill Chain Framework\" referred to as Phantom. The threat actor is assessed to be Russian-speaking and functions both as an intrusion and data-extortion operator, as well as an.",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html"
+      "tag": "EU Regulation",
+      "headline": "A hacker stole more than 40,000 DHS employee records",
+      "summary": "A hacker stole a trove of personal information from the Department of Homeland Security (DHS). The breach exposes the names, job titles, phone numbers, email addresses, and office locations of more than 41,000 employees, including those in US Immigration and Customs Enforcement (ICE) and Customs and Border Protection (CBP), according to TechCrunch and Wired. The […].",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1021528/ice-cbp-data-leak"
     }
   ]
 }
