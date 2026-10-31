@@ -1,8 +1,15 @@
 {
-  "updated": "2026-10-29",
+  "updated": "2026-10-31",
   "eyebrow": "Latest briefing",
   "heading": "Technology & Trends",
   "items": [
+    {
+      "tag": "EU Regulation",
+      "headline": "Commission takes a key step forward on 2027 financial support for Ukraine",
+      "summary": "European Commission Press release Brussels, 30 Oct 2026 Today, the European Commission took another step in the implementation of the €90 billion Ukraine Support Loan, which will provide Ukraine with essential budgetary support and defence products in 2026 and 2027.",
+      "source": "European Commission",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2301"
+    },
     {
       "tag": "Cloud & Sovereignty",
       "headline": "Local Digital Twins CiTiVERSE EDIC joins Smart City Expo World Congress 2026",
@@ -12,17 +19,10 @@
     },
     {
       "tag": "EU Regulation",
-      "headline": "Joint statement by High Representative/Vice-President Kallas and Commissioner Kos on the early parliamentary elections in Serbia",
-      "summary": "European Commission Statement Brussels, 28 Oct 2026 On Sunday 25 October, the people of Serbia turned out in historic numbers to make their voices heard. Voters have given the next government a strong mandate for change. We look forward to seeing this being realised in practice",
-      "source": "European Commission",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2275"
-    },
-    {
-      "tag": "EU Regulation",
-      "headline": "A hacker stole more than 40,000 DHS employee records",
-      "summary": "A hacker stole a trove of personal information from the Department of Homeland Security (DHS). The breach exposes the names, job titles, phone numbers, email addresses, and office locations of more than 41,000 employees, including those in US Immigration and Customs Enforcement (ICE) and Customs and Border Protection (CBP), according to TechCrunch and Wired. The […].",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1021528/ice-cbp-data-leak"
+      "headline": "UK extends facial recognition to civil immigration offences",
+      "summary": "UK Immigration Enforcement is set to start deploying live facial recognition technology, but critics are concerned about the expansion of its biometric surveillance into non-criminal matters away from ports of entry, especially in light of underlying issues with the integrity of Home Office data.",
+      "source": "Computer Weekly",
+      "url": "https://www.computerweekly.com/news/366653154/UK-extends-facial-recognition-to-civil-immigration-offences"
     }
   ]
 }
