@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31",
+  "updated": "2026-11-01",
   "eyebrow": "Latest briefing",
   "heading": "Technology & Trends",
   "items": [
@@ -12,17 +12,17 @@
     },
     {
       "tag": "Cloud & Sovereignty",
+      "headline": "Data centers are now a midterm issue, even in Brooklyn",
+      "summary": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/"
+    },
+    {
+      "tag": "Cloud & Sovereignty",
       "headline": "Local Digital Twins CiTiVERSE EDIC joins Smart City Expo World Congress 2026",
       "summary": "Local Digital Twins CiTiVERSE EDIC joins Smart City Expo World Congress 2026 Anonymous (not verified) Thu, 10/29/2026 - 09:12 03 November 2026 - 05 November 2026 Fira de Barcelona, Hall 3, Stand D71 Explore human-centric AI solutions for smart cities with the LDT CiTiVERSE EDIC at Smart City Expo World Congress 2026.",
       "source": "European Commission",
       "url": "https://digital-strategy.ec.europa.eu/en/events/local-digital-twins-citiverse-edic-joins-smart-city-expo-world-congress-2026"
-    },
-    {
-      "tag": "EU Regulation",
-      "headline": "UK extends facial recognition to civil immigration offences",
-      "summary": "UK Immigration Enforcement is set to start deploying live facial recognition technology, but critics are concerned about the expansion of its biometric surveillance into non-criminal matters away from ports of entry, especially in light of underlying issues with the integrity of Home Office data.",
-      "source": "Computer Weekly",
-      "url": "https://www.computerweekly.com/news/366653154/UK-extends-facial-recognition-to-civil-immigration-offences"
     }
   ]
 }
