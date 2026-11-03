@@ -1,28 +1,28 @@
 {
-  "updated": "2026-11-01",
+  "updated": "2026-11-03",
   "eyebrow": "Latest briefing",
   "heading": "Technology & Trends",
   "items": [
     {
-      "tag": "EU Regulation",
-      "headline": "Commission takes a key step forward on 2027 financial support for Ukraine",
-      "summary": "European Commission Press release Brussels, 30 Oct 2026 Today, the European Commission took another step in the implementation of the €90 billion Ukraine Support Loan, which will provide Ukraine with essential budgetary support and defence products in 2026 and 2027.",
-      "source": "European Commission",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2301"
+      "tag": "Cloud & Sovereignty",
+      "headline": "Government Linux Servers Targeted With SysGoRAT and Suspected AI-Generated Scripts",
+      "summary": "Cybersecurity researchers have disclosed details of a cyber espionage campaign specifically targeting Linux infrastructure associated with government entities and state-affiliated infrastructure. The activity, observed by Palo Alto Networks Unit 42 between October 2025 and April 2026, has been tracked under the moniker CL-UNK-1211, where \"CL\" refers to cluster and \"UNK\" stands for unknown.",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/government-linux-servers-targeted-with.html"
     },
     {
       "tag": "Cloud & Sovereignty",
-      "headline": "Data centers are now a midterm issue, even in Brooklyn",
-      "summary": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/"
+      "headline": "Britain on notice: AI-powered ransomware attacks to arrive by 2028",
+      "summary": "Cyber agency warns critical infrastructure is a likely target as chief urges bosses to stop doing 'tech on the cheap'.",
+      "source": "The Register",
+      "url": "https://www.theregister.com/security/2026/11/03/britain-on-notice-ai-powered-ransomware-attacks-to-arrive-by-2028/5307200"
     },
     {
-      "tag": "Cloud & Sovereignty",
-      "headline": "Local Digital Twins CiTiVERSE EDIC joins Smart City Expo World Congress 2026",
-      "summary": "Local Digital Twins CiTiVERSE EDIC joins Smart City Expo World Congress 2026 Anonymous (not verified) Thu, 10/29/2026 - 09:12 03 November 2026 - 05 November 2026 Fira de Barcelona, Hall 3, Stand D71 Explore human-centric AI solutions for smart cities with the LDT CiTiVERSE EDIC at Smart City Expo World Congress 2026.",
-      "source": "European Commission",
-      "url": "https://digital-strategy.ec.europa.eu/en/events/local-digital-twins-citiverse-edic-joins-smart-city-expo-world-congress-2026"
+      "tag": "AI & Automation",
+      "headline": "New VOLTA Infostealer Uses Claude, Gemini, and Kimi AI to Rank Victims by Financial Value",
+      "summary": "Cybersecurity researchers have discovered a new Windows infostealer malware called VOLTA-AUTODOXER (aka VOLTA) that makes use of a large language model (LLM) to rank a victim's stolen data by their monetization value. Like other typical stealer families, VOLTA is equipped to harvest passwords and cookies from Chromium-based web browsers; data from Outlook profiles and Slack workspaces.",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html"
     }
   ]
 }
