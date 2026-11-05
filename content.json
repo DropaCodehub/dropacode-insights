@@ -1,28 +1,28 @@
 {
-  "updated": "2026-11-03",
+  "updated": "2026-11-05",
   "eyebrow": "Latest briefing",
   "heading": "Technology & Trends",
   "items": [
+    {
+      "tag": "EU Regulation",
+      "headline": "Commission disburses €4.36 billion to Ukraine under the €90 billion Ukraine Support Loan",
+      "summary": "European Commission Press release Brussels, 05 Nov 2026 Today, the European Commission disbursed €4.36 billion to Ukraine under the Ukraine Support Loan. This payment includes €3.7 billion for the second instalment of macro-financial assistance (MFA) agreed for 2026 and €658 million under the defence leg of the Loan",
+      "source": "European Commission",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2349"
+    },
+    {
+      "tag": "EU Regulation",
+      "headline": "Remarks by Executive Vice-President Mînzatu on the Education and Skills package",
+      "summary": "European Commission Speech Brussels, 05 Nov 2026 Europe is living through a transformation that will define generations to come. Artificial intelligence is changing how we work and learn. Disinformation is tes",
+      "source": "European Commission",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2351"
+    },
     {
       "tag": "Cloud & Sovereignty",
       "headline": "Government Linux Servers Targeted With SysGoRAT and Suspected AI-Generated Scripts",
       "summary": "Cybersecurity researchers have disclosed details of a cyber espionage campaign specifically targeting Linux infrastructure associated with government entities and state-affiliated infrastructure. The activity, observed by Palo Alto Networks Unit 42 between October 2025 and April 2026, has been tracked under the moniker CL-UNK-1211, where \"CL\" refers to cluster and \"UNK\" stands for unknown.",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/11/government-linux-servers-targeted-with.html"
-    },
-    {
-      "tag": "Cloud & Sovereignty",
-      "headline": "Britain on notice: AI-powered ransomware attacks to arrive by 2028",
-      "summary": "Cyber agency warns critical infrastructure is a likely target as chief urges bosses to stop doing 'tech on the cheap'.",
-      "source": "The Register",
-      "url": "https://www.theregister.com/security/2026/11/03/britain-on-notice-ai-powered-ransomware-attacks-to-arrive-by-2028/5307200"
-    },
-    {
-      "tag": "AI & Automation",
-      "headline": "New VOLTA Infostealer Uses Claude, Gemini, and Kimi AI to Rank Victims by Financial Value",
-      "summary": "Cybersecurity researchers have discovered a new Windows infostealer malware called VOLTA-AUTODOXER (aka VOLTA) that makes use of a large language model (LLM) to rank a victim's stolen data by their monetization value. Like other typical stealer families, VOLTA is equipped to harvest passwords and cookies from Chromium-based web browsers; data from Outlook profiles and Slack workspaces.",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html"
     }
   ]
 }
