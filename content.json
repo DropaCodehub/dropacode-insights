@@ -1,8 +1,15 @@
 {
-  "updated": "2026-11-19",
+  "updated": "2026-11-21",
   "eyebrow": "Latest briefing",
   "heading": "Technology & Trends",
   "items": [
+    {
+      "tag": "Cloud & Sovereignty",
+      "headline": "European Digital Infrastructure Consortium launches today to strengthen digital sovereignty in education",
+      "summary": "European Digital Infrastructure Consortium launches today to strengthen digital sovereignty in education Anonymous (not verified) Fri, 11/20/2026 - 11:30 Today, the European Commission and eight Member States are launching the European Digital Infrastructure Consortium on Education (EDU-EDIC) to pool resources and develop shared, secure and interoperable digital infrastructure and services for education.",
+      "source": "European Commission",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/european-digital-infrastructure-consortium-launches-today-strengthen-digital-sovereignty-education"
+    },
     {
       "tag": "Finance & Risk",
       "headline": "EU seeks nominations for stakeholder group on tokenisation standards in finance",
@@ -16,13 +23,6 @@
       "summary": "From air traffic control systems to banks, and tech companies to government agencies, a spate of high-profile IT outages in the US is surfacing questions about what resilience looks like in an AI-driven world.",
       "source": "Computer Weekly",
       "url": "https://www.computerweekly.com/news/366654898/US-tech-outages-spark-conversation-on-resilience-in-the-age-of-AI"
-    },
-    {
-      "tag": "Cloud & Sovereignty",
-      "headline": "I am the passenger: In Brussels at Google’s data sovereignty event",
-      "summary": "I look through the window. What do I see? Physical embassies protected from local law, while cloud data stored with US giants remains exposed to foreign warrants.",
-      "source": "Computer Weekly",
-      "url": "https://www.computerweekly.com/opinion/I-am-the-passenger-In-Brussels-at-Googles-data-sovereignty-event"
     }
   ]
 }
