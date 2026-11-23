@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21",
+  "updated": "2026-11-23",
   "eyebrow": "Latest briefing",
   "heading": "Technology & Trends",
   "items": [
@@ -11,18 +11,18 @@
       "url": "https://digital-strategy.ec.europa.eu/en/news/european-digital-infrastructure-consortium-launches-today-strengthen-digital-sovereignty-education"
     },
     {
+      "tag": "EU Regulation",
+      "headline": "Commission opens formal investigation into possible anticompetitive conduct by Coca-Cola Europacific Partners in the non-alcoholic drinks sector",
+      "summary": "European Commission Press release Brussels, 23 Nov 2026 The European Commission has opened a formal antitrust investigation to assess whether Coca-Cola Europacific Partners (‘CCEP') has breached EU competition rules by (i) hindering the cross-border trade of carbonated soft drinks and sports drinks; and (ii) denying certain wholesale customers the possibility to negotiate the procurement of these products on…",
+      "source": "European Commission",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2530"
+    },
+    {
       "tag": "Finance & Risk",
       "headline": "EU seeks nominations for stakeholder group on tokenisation standards in finance",
       "summary": "EU seeks nominations for stakeholder group on tokenisation standards in finance 09 November 2026 Digital Finance and Innovation The European Central Bank (ECB), together with the European Commission and the European Securities and Markets Authority (ESMA), is calling upon wholesale financial industry stakeholders to express their interest in joining the European Tokenisation Standards Group (ETSG).",
       "source": "ESMA",
       "url": "https://www.esma.europa.eu/press-news/esma-news/eu-seeks-nominations-stakeholder-group-tokenisation-standards-finance"
-    },
-    {
-      "tag": "AI & Automation",
-      "headline": "US tech outages spark conversation on resilience in the age of AI",
-      "summary": "From air traffic control systems to banks, and tech companies to government agencies, a spate of high-profile IT outages in the US is surfacing questions about what resilience looks like in an AI-driven world.",
-      "source": "Computer Weekly",
-      "url": "https://www.computerweekly.com/news/366654898/US-tech-outages-spark-conversation-on-resilience-in-the-age-of-AI"
     }
   ]
 }
