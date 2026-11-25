@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23",
+  "updated": "2026-11-25",
   "eyebrow": "Latest briefing",
   "heading": "Technology & Trends",
   "items": [
@@ -11,18 +11,18 @@
       "url": "https://digital-strategy.ec.europa.eu/en/news/european-digital-infrastructure-consortium-launches-today-strengthen-digital-sovereignty-education"
     },
     {
-      "tag": "EU Regulation",
-      "headline": "Commission opens formal investigation into possible anticompetitive conduct by Coca-Cola Europacific Partners in the non-alcoholic drinks sector",
-      "summary": "European Commission Press release Brussels, 23 Nov 2026 The European Commission has opened a formal antitrust investigation to assess whether Coca-Cola Europacific Partners (‘CCEP') has breached EU competition rules by (i) hindering the cross-border trade of carbonated soft drinks and sports drinks; and (ii) denying certain wholesale customers the possibility to negotiate the procurement of these products on…",
-      "source": "European Commission",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2530"
+      "tag": "AI & Automation",
+      "headline": "Hackers Compromise 24 Check Point Management Servers in Suspected AI-Driven Attack Campaign",
+      "summary": "An unknown threat actor has been using artificial intelligence (AI)-driven offensive tooling in a campaign targeting Check Point Security Management servers, impacting 22 distinct organizations across the world. The intrusion activity, tracked by GreyNoise under the moniker GreyNoise Threat 13 (GT13), is assessed to have targeted organizations in the financial services, energy, government.",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/hackers-compromise-24-check-point.html"
     },
     {
-      "tag": "Finance & Risk",
-      "headline": "EU seeks nominations for stakeholder group on tokenisation standards in finance",
-      "summary": "EU seeks nominations for stakeholder group on tokenisation standards in finance 09 November 2026 Digital Finance and Innovation The European Central Bank (ECB), together with the European Commission and the European Securities and Markets Authority (ESMA), is calling upon wholesale financial industry stakeholders to express their interest in joining the European Tokenisation Standards Group (ETSG).",
-      "source": "ESMA",
-      "url": "https://www.esma.europa.eu/press-news/esma-news/eu-seeks-nominations-stakeholder-group-tokenisation-standards-finance"
+      "tag": "EU Regulation",
+      "headline": "Remarks by Commissioner Serafin during the European Parliament debate Unlocking the 2028–2034 MFF negotiations including new own resources following the revised negotiating box in Strasbourg",
+      "summary": "European Commission Speech Strasbourg, 25 Nov 2026 Opening remarks Honourable members, dear rapporteurs, Many thanks for organising this debate at very timely moment. Let me start by stressing that the Commissio",
+      "source": "European Commission",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2585"
     }
   ]
 }
